@@ -1,0 +1,53 @@
+﻿Category;Statistic;"POLONIA WARSZAWA";"FCB ESCOLA VARSOVIA"
+Summary;Goals;2;0
+Summary;Possessions;48%;52%
+Summary;"Shots in total";20;5
+Summary;Fouls;12;23
+Summary;Offsides;0;1
+Summary;"Free kicks";20;11
+Summary;Corners;4;3
+Summary;"Average player game rating";6.68;7.33
+Offensive;"Shots in total";20;5
+Offensive;"Shots on target";7;1
+Offensive;"Shots off target";8;2
+Offensive;"Shots blocked";5;2
+Offensive;"Shots inside PA";10;3
+Offensive;"Shots outside PA";10;2
+Offensive;"Successful take ons";7;1
+Offensive;"All take ons";21;10
+Offensive;"Shot Conversion Rate";10%;0%
+Defensive;"Successful tackles";19;27
+Defensive;"All tackles";28;37
+Defensive;"Aerial duels";19;19
+Defensive;Interceptions;16;12
+Defensive;Clearances;21;35
+Defensive;Recoveries;109;104
+Defensive;Blocks;11;19
+Defensive;Mistakes;14;14
+Defensive;"Won fouls";23;12
+Defensive;"Second Ball Won";35%;65%
+Distribution;"Successful passes";277;319
+Distribution;Passes;401;448
+Distribution;"Pass accuracy";69%;71%
+Distribution;"Key passes";9;4
+Distribution;"Successful passes in final third";52;46
+Distribution;"All passes in final third";103;78
+Distribution;"Successful passes in middle third";131;145
+Distribution;"All passes in middle third";172;200
+Distribution;"Successful passes in defensive third";94;128
+Distribution;"All passes in defensive third";126;170
+Distribution;"Successful long passes";30;17
+Distribution;"All long passes";68;51
+Distribution;"Successful medium range passes";109;140
+Distribution;"All medium range passes";140;183
+Distribution;"Successful short passes";138;162
+Distribution;"All short passes";193;213
+Distribution;"Successful forward passes";95;114
+Distribution;"All forward passes";184;194
+Distribution;"Successful sideways passes";109;136
+Distribution;"All sideways passes";137;178
+Distribution;"Successful backward passes";73;69
+Distribution;"All backward passes";80;75
+Distribution;"Successful crosses";2;3
+Distribution;"All crosses";10;16
+Distribution;"Field Tilt";57%;43%

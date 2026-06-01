@@ -1,0 +1,53 @@
+﻿Category;Statistic;"POLONIA WARSZAWA";"RESOVIA RZESOW"
+Summary;Goals;1;1
+Summary;Possessions;65%;35%
+Summary;"Shots in total";11;3
+Summary;Fouls;7;5
+Summary;Offsides;1;3
+Summary;"Free kicks";6;8
+Summary;Corners;5;1
+Summary;"Average player game rating";6.79;5.61
+Offensive;"Shots in total";11;3
+Offensive;"Shots on target";2;2
+Offensive;"Shots off target";7;0
+Offensive;"Shots blocked";2;1
+Offensive;"Shots inside PA";8;2
+Offensive;"Shots outside PA";3;1
+Offensive;"Successful take ons";8;2
+Offensive;"All take ons";18;3
+Offensive;"Shot Conversion Rate";9%;33%
+Defensive;"Successful tackles";4;18
+Defensive;"All tackles";6;28
+Defensive;"Aerial duels";28;28
+Defensive;Interceptions;30;35
+Defensive;Clearances;10;25
+Defensive;Recoveries;52;24
+Defensive;Blocks;9;8
+Defensive;Mistakes;3;2
+Defensive;"Won fouls";5;7
+Defensive;"Second Ball Won";67%;33%
+Distribution;"Successful passes";226;65
+Distribution;Passes;291;130
+Distribution;"Pass accuracy";78%;50%
+Distribution;"Key passes";8;3
+Distribution;"Successful passes in final third";55;13
+Distribution;"All passes in final third";81;26
+Distribution;"Successful passes in middle third";133;33
+Distribution;"All passes in middle third";161;58
+Distribution;"Successful passes in defensive third";38;19
+Distribution;"All passes in defensive third";49;46
+Distribution;"Successful long passes";21;10
+Distribution;"All long passes";37;37
+Distribution;"Successful medium range passes";125;30
+Distribution;"All medium range passes";155;50
+Distribution;"Successful short passes";80;25
+Distribution;"All short passes";99;43
+Distribution;"Successful forward passes";76;31
+Distribution;"All forward passes";121;86
+Distribution;"Successful sideways passes";99;18
+Distribution;"All sideways passes";115;26
+Distribution;"Successful backward passes";51;16
+Distribution;"All backward passes";55;18
+Distribution;"Successful crosses";2;1
+Distribution;"All crosses";17;6
+Distribution;"Field Tilt";76%;24%

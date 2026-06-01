@@ -1,0 +1,53 @@
+﻿Category;Statistic;"UKS TALENT WARSZAWA";"POLONIA WARSZAWA"
+Summary;Goals;1;4
+Summary;Possessions;46%;54%
+Summary;"Shots in total";6;12
+Summary;Fouls;19;9
+Summary;Offsides;1;2
+Summary;"Free kicks";11;20
+Summary;Corners;5;5
+Summary;"Average player game rating";6.33;5.69
+Offensive;"Shots in total";6;12
+Offensive;"Shots on target";1;7
+Offensive;"Shots off target";5;1
+Offensive;"Shots blocked";0;4
+Offensive;"Shots inside PA";6;7
+Offensive;"Shots outside PA";0;5
+Offensive;"Successful take ons";5;4
+Offensive;"All take ons";14;6
+Offensive;"Shot Conversion Rate";17%;33%
+Defensive;"Successful tackles";22;34
+Defensive;"All tackles";51;52
+Defensive;"Aerial duels";38;38
+Defensive;Interceptions;23;32
+Defensive;Clearances;28;39
+Defensive;Recoveries;130;116
+Defensive;Blocks;14;12
+Defensive;Mistakes;9;9
+Defensive;"Won fouls";9;19
+Defensive;"Second Ball Won";33%;67%
+Distribution;"Successful passes";167;241
+Distribution;Passes;319;388
+Distribution;"Pass accuracy";52%;62%
+Distribution;"Key passes";5;10
+Distribution;"Successful passes in final third";40;35
+Distribution;"All passes in final third";89;77
+Distribution;"Successful passes in middle third";64;102
+Distribution;"All passes in middle third";125;165
+Distribution;"Successful passes in defensive third";63;104
+Distribution;"All passes in defensive third";105;146
+Distribution;"Successful long passes";24;34
+Distribution;"All long passes";70;79
+Distribution;"Successful medium range passes";74;77
+Distribution;"All medium range passes";123;124
+Distribution;"Successful short passes";68;130
+Distribution;"All short passes";125;184
+Distribution;"Successful forward passes";82;102
+Distribution;"All forward passes";192;207
+Distribution;"Successful sideways passes";54;89
+Distribution;"All sideways passes";90;124
+Distribution;"Successful backward passes";30;50
+Distribution;"All backward passes";36;56
+Distribution;"Successful crosses";2;4
+Distribution;"All crosses";22;21
+Distribution;"Field Tilt";54%;46%
