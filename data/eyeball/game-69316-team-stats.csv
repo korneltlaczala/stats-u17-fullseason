@@ -1,0 +1,53 @@
+﻿Category;Statistic;"LKS LODZ";"POLONIA WARSZAWA"
+Summary;Goals;4;1
+Summary;Possessions;45%;55%
+Summary;"Shots in total";14;29
+Summary;Fouls;22;8
+Summary;Offsides;3;3
+Summary;"Free kicks";11;23
+Summary;Corners;6;11
+Summary;"Average player game rating";6.75;5.95
+Offensive;"Shots in total";14;29
+Offensive;"Shots on target";6;11
+Offensive;"Shots off target";6;9
+Offensive;"Shots blocked";2;9
+Offensive;"Shots inside PA";12;22
+Offensive;"Shots outside PA";2;7
+Offensive;"Successful take ons";4;7
+Offensive;"All take ons";12;16
+Offensive;"Shot Conversion Rate";29%;3%
+Defensive;"Successful tackles";31;14
+Defensive;"All tackles";46;26
+Defensive;"Aerial duels";12;12
+Defensive;Interceptions;24;13
+Defensive;Clearances;32;22
+Defensive;Recoveries;96;113
+Defensive;Blocks;22;18
+Defensive;Mistakes;13;8
+Defensive;"Won fouls";8;22
+Defensive;"Second Ball Won";20%;80%
+Distribution;"Successful passes";182;292
+Distribution;Passes;292;406
+Distribution;"Pass accuracy";62%;72%
+Distribution;"Key passes";6;18
+Distribution;"Successful passes in final third";33;87
+Distribution;"All passes in final third";62;135
+Distribution;"Successful passes in middle third";61;106
+Distribution;"All passes in middle third";102;146
+Distribution;"Successful passes in defensive third";88;99
+Distribution;"All passes in defensive third";128;125
+Distribution;"Successful long passes";19;43
+Distribution;"All long passes";57;74
+Distribution;"Successful medium range passes";68;112
+Distribution;"All medium range passes";104;150
+Distribution;"Successful short passes";95;137
+Distribution;"All short passes";131;182
+Distribution;"Successful forward passes";79;113
+Distribution;"All forward passes";161;174
+Distribution;"Successful sideways passes";75;116
+Distribution;"All sideways passes";98;153
+Distribution;"Successful backward passes";28;63
+Distribution;"All backward passes";33;79
+Distribution;"Successful crosses";1;10
+Distribution;"All crosses";15;24
+Distribution;"Field Tilt";31%;69%

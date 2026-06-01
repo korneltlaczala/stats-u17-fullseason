@@ -1,0 +1,53 @@
+﻿Category;Statistic;"JAGIELLONIA BIALYSTOK";"POLONIA WARSZAWA"
+Summary;Goals;2;1
+Summary;Possessions;53%;47%
+Summary;"Shots in total";12;9
+Summary;Fouls;11;7
+Summary;Offsides;1;1
+Summary;"Free kicks";8;11
+Summary;Corners;3;1
+Summary;"Average player game rating";7.15;6.19
+Offensive;"Shots in total";12;9
+Offensive;"Shots on target";6;4
+Offensive;"Shots off target";4;3
+Offensive;"Shots blocked";2;2
+Offensive;"Shots inside PA";6;6
+Offensive;"Shots outside PA";6;3
+Offensive;"Successful take ons";16;8
+Offensive;"All take ons";19;8
+Offensive;"Shot Conversion Rate";17%;11%
+Defensive;"Successful tackles";10;14
+Defensive;"All tackles";18;23
+Defensive;"Aerial duels";24;24
+Defensive;Interceptions;19;29
+Defensive;Clearances;6;20
+Defensive;Recoveries;40;35
+Defensive;Blocks;3;5
+Defensive;Mistakes;2;4
+Defensive;"Won fouls";7;11
+Defensive;"Second Ball Won";33%;67%
+Distribution;"Successful passes";133;91
+Distribution;Passes;186;137
+Distribution;"Pass accuracy";72%;66%
+Distribution;"Key passes";7;4
+Distribution;"Successful passes in final third";37;16
+Distribution;"All passes in final third";56;25
+Distribution;"Successful passes in middle third";64;32
+Distribution;"All passes in middle third";88;47
+Distribution;"Successful passes in defensive third";32;43
+Distribution;"All passes in defensive third";42;65
+Distribution;"Successful long passes";7;7
+Distribution;"All long passes";23;31
+Distribution;"Successful medium range passes";57;39
+Distribution;"All medium range passes";72;48
+Distribution;"Successful short passes";69;45
+Distribution;"All short passes";91;58
+Distribution;"Successful forward passes";58;34
+Distribution;"All forward passes";93;67
+Distribution;"Successful sideways passes";49;42
+Distribution;"All sideways passes";65;53
+Distribution;"Successful backward passes";26;15
+Distribution;"All backward passes";28;17
+Distribution;"Successful crosses";3;1
+Distribution;"All crosses";15;6
+Distribution;"Field Tilt";69%;31%

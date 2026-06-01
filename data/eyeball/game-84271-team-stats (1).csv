@@ -1,0 +1,53 @@
+﻿Category;Statistic;"INDUSTRIA KORONA KIELCE";"POLONIA WARSZAWA"
+Summary;Goals;2;0
+Summary;Possessions;55%;45%
+Summary;"Shots in total";7;5
+Summary;Fouls;5;9
+Summary;Offsides;1;0
+Summary;"Free kicks";8;5
+Summary;Corners;6;3
+Summary;"Average player game rating";7.11;6.48
+Offensive;"Shots in total";7;5
+Offensive;"Shots on target";5;3
+Offensive;"Shots off target";1;0
+Offensive;"Shots blocked";1;2
+Offensive;"Shots inside PA";5;4
+Offensive;"Shots outside PA";2;1
+Offensive;"Successful take ons";10;7
+Offensive;"All take ons";16;15
+Offensive;"Shot Conversion Rate";29%;0%
+Defensive;"Successful tackles";11;12
+Defensive;"All tackles";14;15
+Defensive;"Aerial duels";12;12
+Defensive;Interceptions;8;8
+Defensive;Clearances;14;18
+Defensive;Recoveries;43;27
+Defensive;Blocks;6;5
+Defensive;Mistakes;7;4
+Defensive;"Won fouls";9;5
+Defensive;"Second Ball Won";67%;33%
+Distribution;"Successful passes";127;103
+Distribution;Passes;172;141
+Distribution;"Pass accuracy";74%;73%
+Distribution;"Key passes";4;3
+Distribution;"Successful passes in final third";29;21
+Distribution;"All passes in final third";52;37
+Distribution;"Successful passes in middle third";49;39
+Distribution;"All passes in middle third";59;53
+Distribution;"Successful passes in defensive third";49;43
+Distribution;"All passes in defensive third";61;51
+Distribution;"Successful long passes";17;12
+Distribution;"All long passes";31;16
+Distribution;"Successful medium range passes";59;39
+Distribution;"All medium range passes";71;56
+Distribution;"Successful short passes";51;52
+Distribution;"All short passes";70;69
+Distribution;"Successful forward passes";42;39
+Distribution;"All forward passes";66;64
+Distribution;"Successful sideways passes";55;48
+Distribution;"All sideways passes";74;59
+Distribution;"Successful backward passes";30;16
+Distribution;"All backward passes";32;18
+Distribution;"Successful crosses";3;1
+Distribution;"All crosses";13;5
+Distribution;"Field Tilt";58%;42%

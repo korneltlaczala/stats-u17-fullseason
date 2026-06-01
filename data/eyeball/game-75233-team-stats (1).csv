@@ -1,0 +1,53 @@
+﻿Category;Statistic;"STOMIL OLSZTYN SA";"POLONIA WARSZAWA"
+Summary;Goals;0;0
+Summary;Possessions;40%;60%
+Summary;"Shots in total";5;9
+Summary;Fouls;4;7
+Summary;Offsides;0;0
+Summary;"Free kicks";7;4
+Summary;Corners;0;0
+Summary;"Average player game rating";7.04;7.85
+Offensive;"Shots in total";5;9
+Offensive;"Shots on target";1;4
+Offensive;"Shots off target";3;3
+Offensive;"Shots blocked";1;2
+Offensive;"Shots inside PA";4;4
+Offensive;"Shots outside PA";1;5
+Offensive;"Successful take ons";15;7
+Offensive;"All take ons";19;11
+Offensive;"Shot Conversion Rate";0%;0%
+Defensive;"Successful tackles";6;14
+Defensive;"All tackles";13;22
+Defensive;"Aerial duels";26;26
+Defensive;Interceptions;10;10
+Defensive;Clearances;12;11
+Defensive;Recoveries;40;54
+Defensive;Blocks;8;10
+Defensive;Mistakes;3;3
+Defensive;"Won fouls";7;4
+Defensive;"Second Ball Won";40%;60%
+Distribution;"Successful passes";103;200
+Distribution;Passes;165;260
+Distribution;"Pass accuracy";62%;77%
+Distribution;"Key passes";4;6
+Distribution;"Successful passes in final third";20;36
+Distribution;"All passes in final third";37;57
+Distribution;"Successful passes in middle third";33;99
+Distribution;"All passes in middle third";56;124
+Distribution;"Successful passes in defensive third";50;65
+Distribution;"All passes in defensive third";72;79
+Distribution;"Successful long passes";17;32
+Distribution;"All long passes";39;49
+Distribution;"Successful medium range passes";42;88
+Distribution;"All medium range passes";59;99
+Distribution;"Successful short passes";44;80
+Distribution;"All short passes";67;112
+Distribution;"Successful forward passes";39;58
+Distribution;"All forward passes";84;100
+Distribution;"Successful sideways passes";43;89
+Distribution;"All sideways passes";54;98
+Distribution;"Successful backward passes";21;53
+Distribution;"All backward passes";27;62
+Distribution;"Successful crosses";0;2
+Distribution;"All crosses";7;4
+Distribution;"Field Tilt";39%;61%

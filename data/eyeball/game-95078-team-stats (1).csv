@@ -1,0 +1,53 @@
+﻿Category;Statistic;"WISLA PLOCK";"POLONIA WARSZAWA"
+Summary;Goals;0;0
+Summary;Possessions;48%;52%
+Summary;"Shots in total";2;4
+Summary;Fouls;10;9
+Summary;Offsides;1;2
+Summary;"Free kicks";11;11
+Summary;Corners;1;0
+Summary;"Average player game rating";6.71;6.06
+Offensive;"Shots in total";2;4
+Offensive;"Shots on target";2;2
+Offensive;"Shots off target";0;1
+Offensive;"Shots blocked";0;1
+Offensive;"Shots inside PA";2;2
+Offensive;"Shots outside PA";0;2
+Offensive;"Successful take ons";1;6
+Offensive;"All take ons";1;9
+Offensive;"Shot Conversion Rate";0%;0%
+Defensive;"Successful tackles";10;9
+Defensive;"All tackles";12;9
+Defensive;"Aerial duels";12;12
+Defensive;Interceptions;8;10
+Defensive;Clearances;11;11
+Defensive;Recoveries;41;49
+Defensive;Blocks;6;13
+Defensive;Mistakes;2;5
+Defensive;"Won fouls";9;10
+Defensive;"Second Ball Won";56%;44%
+Distribution;"Successful passes";147;155
+Distribution;Passes;217;214
+Distribution;"Pass accuracy";68%;72%
+Distribution;"Key passes";2;3
+Distribution;"Successful passes in final third";9;23
+Distribution;"All passes in final third";18;49
+Distribution;"Successful passes in middle third";47;100
+Distribution;"All passes in middle third";66;128
+Distribution;"Successful passes in defensive third";91;32
+Distribution;"All passes in defensive third";133;37
+Distribution;"Successful long passes";16;14
+Distribution;"All long passes";40;36
+Distribution;"Successful medium range passes";72;76
+Distribution;"All medium range passes";102;94
+Distribution;"Successful short passes";59;64
+Distribution;"All short passes";75;83
+Distribution;"Successful forward passes";40;56
+Distribution;"All forward passes";98;98
+Distribution;"Successful sideways passes";67;67
+Distribution;"All sideways passes";76;84
+Distribution;"Successful backward passes";40;31
+Distribution;"All backward passes";43;31
+Distribution;"Successful crosses";1;1
+Distribution;"All crosses";6;5
+Distribution;"Field Tilt";27%;73%

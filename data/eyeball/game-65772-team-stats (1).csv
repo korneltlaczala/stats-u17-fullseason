@@ -1,0 +1,53 @@
+﻿Category;Statistic;"LEGIA WARSAW";"POLONIA WARSZAWA"
+Summary;Goals;0;1
+Summary;Possessions;62%;38%
+Summary;"Shots in total";11;3
+Summary;Fouls;6;4
+Summary;Offsides;0;0
+Summary;"Free kicks";4;6
+Summary;Corners;3;1
+Summary;"Average player game rating";6.91;6.8
+Offensive;"Shots in total";11;3
+Offensive;"Shots on target";6;1
+Offensive;"Shots off target";3;1
+Offensive;"Shots blocked";2;1
+Offensive;"Shots inside PA";7;2
+Offensive;"Shots outside PA";4;1
+Offensive;"Successful take ons";5;8
+Offensive;"All take ons";11;15
+Offensive;"Shot Conversion Rate";0%;33%
+Defensive;"Successful tackles";13;7
+Defensive;"All tackles";13;7
+Defensive;"Aerial duels";6;6
+Defensive;Interceptions;11;9
+Defensive;Clearances;13;15
+Defensive;Recoveries;50;41
+Defensive;Blocks;9;6
+Defensive;Mistakes;5;4
+Defensive;"Won fouls";4;6
+Defensive;"Second Ball Won";50%;50%
+Distribution;"Successful passes";216;105
+Distribution;Passes;271;165
+Distribution;"Pass accuracy";80%;64%
+Distribution;"Key passes";10;1
+Distribution;"Successful passes in final third";33;13
+Distribution;"All passes in final third";48;27
+Distribution;"Successful passes in middle third";105;34
+Distribution;"All passes in middle third";127;54
+Distribution;"Successful passes in defensive third";78;58
+Distribution;"All passes in defensive third";96;84
+Distribution;"Successful long passes";20;12
+Distribution;"All long passes";45;35
+Distribution;"Successful medium range passes";113;44
+Distribution;"All medium range passes";129;66
+Distribution;"Successful short passes";83;49
+Distribution;"All short passes";97;64
+Distribution;"Successful forward passes";66;38
+Distribution;"All forward passes";109;82
+Distribution;"Successful sideways passes";97;51
+Distribution;"All sideways passes";108;64
+Distribution;"Successful backward passes";53;16
+Distribution;"All backward passes";54;19
+Distribution;"Successful crosses";4;0
+Distribution;"All crosses";9;7
+Distribution;"Field Tilt";64%;36%

@@ -1,0 +1,53 @@
+﻿Category;Statistic;"POLONIA WARSZAWA";"STAL RZESZOW"
+Summary;Goals;1;0
+Summary;Possessions;51%;49%
+Summary;"Shots in total";17;6
+Summary;Fouls;9;1
+Summary;Offsides;0;1
+Summary;"Free kicks";2;9
+Summary;Corners;6;0
+Summary;"Average player game rating";7.01;7.05
+Offensive;"Shots in total";17;6
+Offensive;"Shots on target";1;2
+Offensive;"Shots off target";6;2
+Offensive;"Shots blocked";10;2
+Offensive;"Shots inside PA";11;4
+Offensive;"Shots outside PA";6;2
+Offensive;"Successful take ons";1;4
+Offensive;"All take ons";4;5
+Offensive;"Shot Conversion Rate";6%;0%
+Defensive;"Successful tackles";5;8
+Defensive;"All tackles";9;9
+Defensive;"Aerial duels";13;13
+Defensive;Interceptions;53;45
+Defensive;Clearances;43;51
+Defensive;Recoveries;57;36
+Defensive;Blocks;3;9
+Defensive;Mistakes;0;0
+Defensive;"Won fouls";1;9
+Defensive;"Second Ball Won";50%;50%
+Distribution;"Successful passes";151;154
+Distribution;Passes;208;214
+Distribution;"Pass accuracy";73%;72%
+Distribution;"Key passes";9;5
+Distribution;"Successful passes in final third";42;11
+Distribution;"All passes in final third";78;24
+Distribution;"Successful passes in middle third";56;52
+Distribution;"All passes in middle third";66;62
+Distribution;"Successful passes in defensive third";53;91
+Distribution;"All passes in defensive third";64;128
+Distribution;"Successful long passes";38;33
+Distribution;"All long passes";61;59
+Distribution;"Successful medium range passes";43;44
+Distribution;"All medium range passes";62;61
+Distribution;"Successful short passes";70;77
+Distribution;"All short passes";85;94
+Distribution;"Successful forward passes";84;88
+Distribution;"All forward passes";108;132
+Distribution;"Successful sideways passes";42;46
+Distribution;"All sideways passes";70;58
+Distribution;"Successful backward passes";25;20
+Distribution;"All backward passes";30;24
+Distribution;"Successful crosses";9;1
+Distribution;"All crosses";22;3
+Distribution;"Field Tilt";76%;24%

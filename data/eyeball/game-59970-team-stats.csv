@@ -1,0 +1,53 @@
+﻿Category;Statistic;"MKS POLONIA WARSZAWA";"INDUSTRIA KORONA KIELCE"
+Summary;Goals;3;0
+Summary;Possessions;48%;52%
+Summary;"Shots in total";26;16
+Summary;Fouls;19;15
+Summary;Offsides;2;0
+Summary;"Free kicks";14;20
+Summary;Corners;5;5
+Summary;"Average player game rating";7.51;7.57
+Offensive;"Shots in total";26;16
+Offensive;"Shots on target";9;5
+Offensive;"Shots off target";11;5
+Offensive;"Shots blocked";6;6
+Offensive;"Shots inside PA";19;6
+Offensive;"Shots outside PA";7;10
+Offensive;"Successful take ons";28;14
+Offensive;"All take ons";35;22
+Offensive;"Shot Conversion Rate";12%;0%
+Defensive;"Successful tackles";32;29
+Defensive;"All tackles";59;54
+Defensive;"Aerial duels";20;20
+Defensive;Interceptions;26;19
+Defensive;Clearances;31;20
+Defensive;Recoveries;93;91
+Defensive;Blocks;27;17
+Defensive;Mistakes;16;9
+Defensive;"Won fouls";15;19
+Defensive;"Second Ball Won";29%;71%
+Distribution;"Successful passes";297;359
+Distribution;Passes;386;472
+Distribution;"Pass accuracy";77%;76%
+Distribution;"Key passes";19;12
+Distribution;"Successful passes in final third";55;87
+Distribution;"All passes in final third";85;126
+Distribution;"Successful passes in middle third";118;130
+Distribution;"All passes in middle third";144;171
+Distribution;"Successful passes in defensive third";124;142
+Distribution;"All passes in defensive third";157;175
+Distribution;"Successful long passes";33;23
+Distribution;"All long passes";60;47
+Distribution;"Successful medium range passes";124;166
+Distribution;"All medium range passes";157;203
+Distribution;"Successful short passes";140;170
+Distribution;"All short passes";169;222
+Distribution;"Successful forward passes";111;113
+Distribution;"All forward passes";176;185
+Distribution;"Successful sideways passes";117;155
+Distribution;"All sideways passes";139;185
+Distribution;"Successful backward passes";69;91
+Distribution;"All backward passes";71;102
+Distribution;"Successful crosses";6;3
+Distribution;"All crosses";18;19
+Distribution;"Field Tilt";40%;60%
