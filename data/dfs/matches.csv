@@ -1,0 +1,31 @@
+pzpn_id,date_time,opponent,home_away,goals_for,goals_against,goals_for_half,goals_against_half,stadium,eyeball_id
+2c37f6ea-4673-4bfa-934d-7ba6be237b28,2025-08-09T12:00:00,Stomil Olsztyn SA,home,2,2,1,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",58937
+6a8839cc-64e4-41b8-aba8-353c5056468b,2025-08-16T12:00:00,AKS SMS GROT ŁÓDŹ,away,1,1,0,0,"Milionowa 12 , 93-193 Łódź",59476
+32823e33-3524-432c-918e-47bd339439e8,2025-08-24T12:00:00,INDUSTRIA KORONA SA Kielce,home,3,0,2,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",59970
+b9c47d4a-9ab2-4db6-afbf-919848c612ce,2025-08-30T12:00:00,Legia Warszawa S.A.,away,2,1,1,0,"Legionistów ul.Legionistów 3 lok. 3, 05-825 Grodzisk Mazowiecki",65772
+e20157b6-e2ab-4f31-ac49-77644d1b45bf,2025-09-06T17:30:00,Widzew Łódź SA,home,0,0,0,0,"Marymoncka 34 , 00-968 Warszawa",66015
+0adaf90f-44b8-4a60-a108-468596f1828a,2025-09-13T13:30:00,Stal Rzeszów S.A.,away,1,2,1,0,"Hetmańska 69 , 35-078 Rzeszów",67278
+541cea7a-ffcb-434f-be21-d73f76afc1e0,2025-09-20T17:30:00,UKS Talent Warszawa,home,5,1,3,0,"Marymoncka 34 , 00-968 Warszawa",67624
+0372e0b3-3974-4f34-a6a8-f17a492e04b2,2025-09-26T19:30:00,Jagiellonia Białystok SSA,away,4,5,3,3,"Elewatorska 4 , 15-620 Białystok",68466
+c76f59f1-035f-4041-82e7-588d8ccff2b6,2025-10-03T11:30:00,ŁKS Łódź S.A.,away,1,4,0,1,"Sztuczne Akademia Ł.K.S. Łódź (Łódź, Krańcowa 19)",69316
+12f482aa-c27e-439b-82b6-2d87520d7243,2025-10-11T13:00:00,Podlasie Biała Podlaska.,away,3,2,1,2,"Sidorska 8 , 21-500 Biała Podlaska",
+01697c50-56b8-45f3-a78b-b532bf82be89,2025-10-18T17:30:00,S.S.M. Wisła Płock,home,3,0,1,0,"Marymoncka 34 , 00-968 Warszawa",
+85a4ba19-e084-4192-974b-c66c76a906bc,2025-10-25T17:30:00,Escola Varsovia,home,2,0,1,0,"Marymoncka 34 , 00-968 Warszawa",72037
+31e70a76-494b-44ac-95a9-f5d9969e06b1,2025-10-31T11:00:00,Wisła Kraków ,away,3,1,0,1,"Zdrojowa 9 , 32-400 Myślenice",72759
+e499ca04-55c2-4530-85d0-8a7bb3455c4d,2025-11-08T17:30:00,SMS Resovia Rzeszów,home,1,1,1,1,"Marymoncka 34 , 00-968 Warszawa",73684
+a1d2b85d-a65f-40b0-a146-f8fc231e16d1,2025-11-15T12:30:00,Hutnik Kraków,away,4,1,1,1,"Tadeusza Ptaszyckiego 4b , 31-979 Kraków ",74469
+eda93f45-978a-43e3-8956-cc9963b39351,2025-11-21T14:30:00,Stomil Olsztyn SA,away,0,2,0,0,"Żytnia 71 , 10-822 Olsztyn",75233
+a3abd411-97af-4a3a-801a-bf3eecd6846d,2025-11-29T17:30:00,AKS SMS GROT ŁÓDŹ,home,5,0,3,0,"OSiR Bemowo (Warszawa, Obrońców Tobruku 11)",76096
+6ed82535-eae3-4c11-a2b0-e6344445662e,2026-02-28T15:00:00,INDUSTRIA KORONA SA Kielce,away,3,3,0,2,"Perłowa 1 , 26-052 Nowiny",84271
+c6c53018-c388-4564-a1ca-190998b4e84e,2026-03-07T10:00:00,Legia Warszawa S.A.,home,0,2,0,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",85491
+07b9e725-1c67-4b08-8415-75317a6ebbd8,2026-03-14T12:30:00,Widzew Łódź SA,away,1,3,0,2,"Stanisława Małachowskiego  5/7/9 , 90-160 Łódź",86317
+f5da7a93-e661-415b-a237-d1c924e09b74,2026-03-21T12:00:00,Stal Rzeszów S.A.,home,2,4,1,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",88406
+cb488fbe-4d7e-4e15-a177-da07e181a78e,2026-03-28T12:00:00,UKS Talent Warszawa,away,4,1,0,1,"Łabiszyńska 20 , 03-379 Warszawa",89508
+661a81ec-54b4-4ed0-b8f1-d4313401d6a8,2026-04-11T12:00:00,Jagiellonia Białystok SSA,home,5,2,4,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",91829
+6924cf38-9f99-4908-9d67-fbe8e933ebb5,2026-04-18T15:00:00,ŁKS Łódź S.A.,home,5,0,4,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",92939
+e19a2e58-5273-489c-a103-403c633f32d9,2026-04-25T12:00:00,Podlasie Biała Podlaska.,home,2,0,1,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",94523
+0c0ef445-d8a3-4afc-a841-45f5101cda11,2026-04-30T16:00:00,S.S.M. Wisła Płock,away,0,1,0,0,"Ignacego Łukasiewicza 34 , 94-000 Płock",95078
+b6def53a-9d35-4e37-8844-d51b85ca3489,2026-05-09T14:45:00,Escola Varsovia,away,2,1,1,0,"Aleksandra Fleminga 2 , 03-176 Warszawa",96181
+1b2e2dcf-4db4-455b-834c-78df8561f4c2,2026-05-16T12:00:00,Wisła Kraków ,home,3,2,3,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",97112
+f2aaac82-669c-41d6-a252-14fa0339683f,2026-05-23T15:00:00,SMS Resovia Rzeszów,away,3,1,2,0,"Stanisława Wyspiańskiego 22 , 35-111 Rzeszów",
+5507bc60-df18-4f0c-985e-58ca2f8a7f77,2026-05-31T12:00:00,Hutnik Kraków,home,1,0,0,0,"Konwiktorska 6 , 00-206 Warszawa-Warszawa",

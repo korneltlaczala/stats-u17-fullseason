@@ -1,0 +1,992 @@
+[
+    {
+        "matchId": "2c37f6ea-4673-4bfa-934d-7ba6be237b28",
+        "state": "Rozegrany",
+        "dateTime": "2025-08-09T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:2",
+            "half": "1:0",
+            "fullTime": "2:2"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "a593c2cb-cc7d-405a-84d2-b9db623b07b7",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/7/8/f/61b0ce0d94a3b9d06f427f87__w64",
+            "name": "Stomil Olsztyn SA",
+            "abbreviation": "STO"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "6a8839cc-64e4-41b8-aba8-353c5056468b",
+        "state": "Rozegrany",
+        "dateTime": "2025-08-16T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:1",
+            "half": "0:0",
+            "fullTime": "1:1"
+        },
+        "host": {
+            "id": "976d23c9-45cf-480c-976b-52ac709de989",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/3/b/d/66aa34d4a893e47ddc076db3__w64",
+            "name": "AKS SMS GROT ŁÓDŹ",
+            "abbreviation": "AKS"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Milionowa 12 , 93-193 Łódź",
+        "transmissions": []
+    },
+    {
+        "matchId": "32823e33-3524-432c-918e-47bd339439e8",
+        "state": "Rozegrany",
+        "dateTime": "2025-08-24T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "3:0",
+            "half": "2:0",
+            "fullTime": "3:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "7be61fd9-697f-4068-b200-e52e1ffa00a8",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/2/7/b/63ecbe7da893e47ddc067b72__w64",
+            "name": "INDUSTRIA KORONA SA Kielce",
+            "abbreviation": "KOR"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "b9c47d4a-9ab2-4db6-afbf-919848c612ce",
+        "state": "Rozegrany",
+        "dateTime": "2025-08-30T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:2",
+            "half": "0:1",
+            "fullTime": "1:2"
+        },
+        "host": {
+            "id": "abea04e3-a7b0-4035-8c3f-232d8edcfbe9",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/e/b/a/620cf97192382fb955836abe__w64",
+            "name": "Legia Warszawa S.A.",
+            "abbreviation": "LEG"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Legionistów ul.Legionistów 3 lok. 3, 05-825 Grodzisk Mazowiecki",
+        "transmissions": []
+    },
+    {
+        "matchId": "e20157b6-e2ab-4f31-ac49-77644d1b45bf",
+        "state": "Rozegrany",
+        "dateTime": "2025-09-06T17:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "0:0",
+            "half": "0:0",
+            "fullTime": "0:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "90379406-4527-4250-87b6-d1fb2ca4b141",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/1/f/d/630de49792382fb955839df1__w64",
+            "name": "Widzew Łódź SA",
+            "abbreviation": "WID"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Marymoncka 34 , 00-968 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "0adaf90f-44b8-4a60-a108-468596f1828a",
+        "state": "Rozegrany",
+        "dateTime": "2025-09-13T13:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:1",
+            "half": "0:1",
+            "fullTime": "2:1"
+        },
+        "host": {
+            "id": "008ac1b7-065f-42f1-b67a-5fdeb1d06a38",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/a/2/8/6602d57fa893e47ddc07282a__w64",
+            "name": "Stal Rzeszów S.A.",
+            "abbreviation": "STA"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Hetmańska 69 , 35-078 Rzeszów",
+        "transmissions": []
+    },
+    {
+        "matchId": "541cea7a-ffcb-434f-be21-d73f76afc1e0",
+        "state": "Rozegrany",
+        "dateTime": "2025-09-20T17:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "5:1",
+            "half": "3:0",
+            "fullTime": "5:1"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "251f16ff-9266-4736-9168-50b38feeeb51",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/6/8/651091efa893e47ddc06c864__w64",
+            "name": "UKS Talent Warszawa",
+            "abbreviation": "TAL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Marymoncka 34 , 00-968 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "0372e0b3-3974-4f34-a6a8-f17a492e04b2",
+        "state": "Rozegrany",
+        "dateTime": "2025-09-26T19:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "5:4",
+            "half": "3:3",
+            "fullTime": "5:4"
+        },
+        "host": {
+            "id": "de848ecb-588a-44e7-8c70-d86d670ecc24",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/9/8/2/6317499792382fb95583a289__w64",
+            "name": "Jagiellonia Białystok SSA",
+            "abbreviation": "JAG"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Elewatorska 4 , 15-620 Białystok",
+        "transmissions": []
+    },
+    {
+        "matchId": "c76f59f1-035f-4041-82e7-588d8ccff2b6",
+        "state": "Rozegrany",
+        "dateTime": "2025-10-03T11:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "4:1",
+            "half": "1:0",
+            "fullTime": "4:1"
+        },
+        "host": {
+            "id": "31ccaf6c-8c7d-4f87-9925-d5a358303d66",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/3/6/b/630ca83792382fb955839b63__w64",
+            "name": "ŁKS Łódź S.A.",
+            "abbreviation": "ŁKS"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Sztuczne Akademia Ł.K.S. Łódź (Łódź, Krańcowa 19)",
+        "transmissions": []
+    },
+    {
+        "matchId": "12f482aa-c27e-439b-82b6-2d87520d7243",
+        "state": "Rozegrany",
+        "dateTime": "2025-10-11T13:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:3",
+            "half": "2:1",
+            "fullTime": "2:3"
+        },
+        "host": {
+            "id": "6e45b83d-d6a7-43f3-a143-478ea00fbcb7",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/7/0/4/6410cad4a893e47ddc068407__w64",
+            "name": "Podlasie Biała Podlaska.",
+            "abbreviation": "POD"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Sidorska 8 , 21-500 Biała Podlaska",
+        "transmissions": []
+    },
+    {
+        "matchId": "01697c50-56b8-45f3-a78b-b532bf82be89",
+        "state": "Rozegrany",
+        "dateTime": "2025-10-18T17:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "3:0",
+            "half": "1:0",
+            "fullTime": "3:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "fcd3fa43-e82f-49b8-9b4c-e0b23d216c1c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/e/e/6213aa0492382fb955836eec__w64",
+            "name": "S.S.M. Wisła Płock",
+            "abbreviation": "SSM"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Marymoncka 34 , 00-968 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "85a4ba19-e084-4192-974b-c66c76a906bc",
+        "state": "Rozegrany",
+        "dateTime": "2025-10-25T17:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:0",
+            "half": "1:0",
+            "fullTime": "2:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "25433e2c-681f-4064-9e94-d7edabb0dd6e",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/7/2/0/6401eba4a893e47ddc068027__w64",
+            "name": "Escola Varsovia",
+            "abbreviation": "EVW"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Marymoncka 34 , 00-968 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "31e70a76-494b-44ac-95a9-f5d9969e06b1",
+        "state": "Rozegrany",
+        "dateTime": "2025-10-31T11:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:3",
+            "half": "1:0",
+            "fullTime": "1:3"
+        },
+        "host": {
+            "id": "3a62d1ac-565c-48e0-901a-fb0b5544ab36",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/f/1/6315e4b692382fb95583a1ff__w64",
+            "name": "Wisła Kraków ",
+            "abbreviation": "WIS"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Zdrojowa 9 , 32-400 Myślenice",
+        "transmissions": []
+    },
+    {
+        "matchId": "e499ca04-55c2-4530-85d0-8a7bb3455c4d",
+        "state": "Rozegrany",
+        "dateTime": "2025-11-08T17:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:1",
+            "half": "1:1",
+            "fullTime": "1:1"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "e3c6ccdb-cdd1-4f97-b560-ed0f9efa2131",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/0/4/621d35f092382fb95583740f__w64",
+            "name": "SMS Resovia Rzeszów",
+            "abbreviation": "RES"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Marymoncka 34 , 00-968 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "a1d2b85d-a65f-40b0-a146-f8fc231e16d1",
+        "state": "Rozegrany",
+        "dateTime": "2025-11-15T12:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:4",
+            "half": "1:1",
+            "fullTime": "1:4"
+        },
+        "host": {
+            "id": "5ac9fb3c-cec7-4d4f-a9ad-3134449adc17",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/4/4/64f3653ba893e47ddc06b446__w64",
+            "name": "Hutnik Kraków",
+            "abbreviation": "HUT"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Tadeusza Ptaszyckiego 4b , 31-979 Kraków ",
+        "transmissions": []
+    },
+    {
+        "matchId": "eda93f45-978a-43e3-8956-cc9963b39351",
+        "state": "Rozegrany",
+        "dateTime": "2025-11-21T14:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:0",
+            "half": "0:0",
+            "fullTime": "2:0"
+        },
+        "host": {
+            "id": "a593c2cb-cc7d-405a-84d2-b9db623b07b7",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/7/8/f/61b0ce0d94a3b9d06f427f87__w64",
+            "name": "Stomil Olsztyn SA",
+            "abbreviation": "STO"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Żytnia 71 , 10-822 Olsztyn",
+        "transmissions": []
+    },
+    {
+        "matchId": "a3abd411-97af-4a3a-801a-bf3eecd6846d",
+        "state": "Rozegrany",
+        "dateTime": "2025-11-29T17:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "5:0",
+            "half": "3:0",
+            "fullTime": "5:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "976d23c9-45cf-480c-976b-52ac709de989",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/3/b/d/66aa34d4a893e47ddc076db3__w64",
+            "name": "AKS SMS GROT ŁÓDŹ",
+            "abbreviation": "AKS"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "OSiR Bemowo (Warszawa, Obrońców Tobruku 11)",
+        "transmissions": []
+    },
+    {
+        "matchId": "6ed82535-eae3-4c11-a2b0-e6344445662e",
+        "state": "Rozegrany",
+        "dateTime": "2026-02-28T15:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "3:3",
+            "half": "2:0",
+            "fullTime": "3:3"
+        },
+        "host": {
+            "id": "7be61fd9-697f-4068-b200-e52e1ffa00a8",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/2/7/b/63ecbe7da893e47ddc067b72__w64",
+            "name": "INDUSTRIA KORONA SA Kielce",
+            "abbreviation": "KOR"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Perłowa 1 , 26-052 Nowiny",
+        "transmissions": []
+    },
+    {
+        "matchId": "c6c53018-c388-4564-a1ca-190998b4e84e",
+        "state": "Rozegrany",
+        "dateTime": "2026-03-07T10:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "0:2",
+            "half": "0:0",
+            "fullTime": "0:2"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "abea04e3-a7b0-4035-8c3f-232d8edcfbe9",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/e/b/a/620cf97192382fb955836abe__w64",
+            "name": "Legia Warszawa S.A.",
+            "abbreviation": "LEG"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "07b9e725-1c67-4b08-8415-75317a6ebbd8",
+        "state": "Rozegrany",
+        "dateTime": "2026-03-14T12:30:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "3:1",
+            "half": "2:0",
+            "fullTime": "3:1"
+        },
+        "host": {
+            "id": "90379406-4527-4250-87b6-d1fb2ca4b141",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/1/f/d/630de49792382fb955839df1__w64",
+            "name": "Widzew Łódź SA",
+            "abbreviation": "WID"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Stanisława Małachowskiego  5/7/9 , 90-160 Łódź",
+        "transmissions": []
+    },
+    {
+        "matchId": "f5da7a93-e661-415b-a237-d1c924e09b74",
+        "state": "Rozegrany",
+        "dateTime": "2026-03-21T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:4",
+            "half": "1:0",
+            "fullTime": "2:4"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "008ac1b7-065f-42f1-b67a-5fdeb1d06a38",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/a/2/8/6602d57fa893e47ddc07282a__w64",
+            "name": "Stal Rzeszów S.A.",
+            "abbreviation": "STA"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "cb488fbe-4d7e-4e15-a177-da07e181a78e",
+        "state": "Rozegrany",
+        "dateTime": "2026-03-28T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:4",
+            "half": "1:0",
+            "fullTime": "1:4"
+        },
+        "host": {
+            "id": "251f16ff-9266-4736-9168-50b38feeeb51",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/6/8/651091efa893e47ddc06c864__w64",
+            "name": "UKS Talent Warszawa",
+            "abbreviation": "TAL"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Łabiszyńska 20 , 03-379 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "661a81ec-54b4-4ed0-b8f1-d4313401d6a8",
+        "state": "Rozegrany",
+        "dateTime": "2026-04-11T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "5:2",
+            "half": "4:0",
+            "fullTime": "5:2"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "de848ecb-588a-44e7-8c70-d86d670ecc24",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/9/8/2/6317499792382fb95583a289__w64",
+            "name": "Jagiellonia Białystok SSA",
+            "abbreviation": "JAG"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "6924cf38-9f99-4908-9d67-fbe8e933ebb5",
+        "state": "Rozegrany",
+        "dateTime": "2026-04-18T15:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "5:0",
+            "half": "4:0",
+            "fullTime": "5:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "31ccaf6c-8c7d-4f87-9925-d5a358303d66",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/3/6/b/630ca83792382fb955839b63__w64",
+            "name": "ŁKS Łódź S.A.",
+            "abbreviation": "ŁKS"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "e19a2e58-5273-489c-a103-403c633f32d9",
+        "state": "Rozegrany",
+        "dateTime": "2026-04-25T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "2:0",
+            "half": "1:0",
+            "fullTime": "2:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "6e45b83d-d6a7-43f3-a143-478ea00fbcb7",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/7/0/4/6410cad4a893e47ddc068407__w64",
+            "name": "Podlasie Biała Podlaska.",
+            "abbreviation": "POD"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "0c0ef445-d8a3-4afc-a841-45f5101cda11",
+        "state": "Rozegrany",
+        "dateTime": "2026-04-30T16:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:0",
+            "half": "0:0",
+            "fullTime": "1:0"
+        },
+        "host": {
+            "id": "fcd3fa43-e82f-49b8-9b4c-e0b23d216c1c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/e/e/6213aa0492382fb955836eec__w64",
+            "name": "S.S.M. Wisła Płock",
+            "abbreviation": "SSM"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Ignacego Łukasiewicza 34 , 94-000 Płock",
+        "transmissions": []
+    },
+    {
+        "matchId": "b6def53a-9d35-4e37-8844-d51b85ca3489",
+        "state": "Rozegrany",
+        "dateTime": "2026-05-09T14:45:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:2",
+            "half": "0:1",
+            "fullTime": "1:2"
+        },
+        "host": {
+            "id": "25433e2c-681f-4064-9e94-d7edabb0dd6e",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/7/2/0/6401eba4a893e47ddc068027__w64",
+            "name": "Escola Varsovia",
+            "abbreviation": "EVW"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Aleksandra Fleminga 2 , 03-176 Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "1b2e2dcf-4db4-455b-834c-78df8561f4c2",
+        "state": "Rozegrany",
+        "dateTime": "2026-05-16T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "3:2",
+            "half": "3:0",
+            "fullTime": "3:2"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "3a62d1ac-565c-48e0-901a-fb0b5544ab36",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/f/1/6315e4b692382fb95583a1ff__w64",
+            "name": "Wisła Kraków ",
+            "abbreviation": "WIS"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    },
+    {
+        "matchId": "f2aaac82-669c-41d6-a252-14fa0339683f",
+        "state": "Rozegrany",
+        "dateTime": "2026-05-23T15:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:3",
+            "half": "0:2",
+            "fullTime": "1:3"
+        },
+        "host": {
+            "id": "e3c6ccdb-cdd1-4f97-b560-ed0f9efa2131",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/0/4/621d35f092382fb95583740f__w64",
+            "name": "SMS Resovia Rzeszów",
+            "abbreviation": "RES"
+        },
+        "guest": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Stanisława Wyspiańskiego 22 , 35-111 Rzeszów",
+        "transmissions": []
+    },
+    {
+        "matchId": "5507bc60-df18-4f0c-985e-58ca2f8a7f77",
+        "state": "Rozegrany",
+        "dateTime": "2026-05-31T12:00:00",
+        "canDateTimeChange": false,
+        "scores": {
+            "final": "1:0",
+            "half": "0:0",
+            "fullTime": "1:0"
+        },
+        "host": {
+            "id": "7b6aa877-e0b7-4ab4-b424-cbd1a8fa192c",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/8/b/630caa6292382fb955839b80__w64",
+            "name": "Polonia Warszawa S.A.",
+            "abbreviation": "POL"
+        },
+        "guest": {
+            "id": "5ac9fb3c-cec7-4d4f-a9ad-3134449adc17",
+            "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/4/4/64f3653ba893e47ddc06b446__w64",
+            "name": "Hutnik Kraków",
+            "abbreviation": "HUT"
+        },
+        "league": {
+            "id": "8104ee44-740c-4f6c-8fc3-3bbcf2b3b0e7",
+            "name": "CLJ U-17"
+        },
+        "play": {
+            "id": "dc301e0a-a248-47ba-b752-ec7fb4e33151",
+            "name": "CLJ U-17 \"gr. I\""
+        },
+        "stadium": "Konwiktorska 6 , 00-206 Warszawa-Warszawa",
+        "transmissions": []
+    }
+]
