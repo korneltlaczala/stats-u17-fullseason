@@ -23,9 +23,11 @@ def generate_stats_df(matches_df, name_suffix=""):
         is_home = match.home_away == "home"
    
         match_stats = {}
-        for _, row in eyeball_df.iterrows():
-            stat_category = row["Category"]
-            stat_name = row["Statistic"]
+        for i, row in eyeball_df.iterrows():
+            if i < 1:
+                continue
+            stat_category = row["Category"].replace(" ", "_").lower()
+            stat_name = row["Statistic"].replace(" ", "_").lower()
             team_stat_value = row[2] if is_home else row[3]
             opponent_stat_value = row[3] if is_home else row[2]
 
