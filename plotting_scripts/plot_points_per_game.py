@@ -190,7 +190,7 @@ def generate_points_plots():
     ax.set_ylim(0, 1080)
     
     output_path = PLOTS_DIR / "points_per_game.png"
-    plt.savefig(output_path, dpi=120, pad_inches=0, transparent=False)
+    plt.savefig(output_path, dpi=300, pad_inches=0, transparent=False)
     plt.close()
     print(f"🚀 Sukces! Zaktualizowany wykres PPG zapisano w: {output_path}")
 

@@ -77,7 +77,7 @@ def generate_opponent_ranking():
     ax.imshow(bg_img, extent=[0, 1920, 0, 1080])
     
     # Nagłówek główny grafiki
-    ax.text(340, 990, "ANALIZA DWUMECZÓW — BILANS BRAMKOWY I ZDOBYTE PUNKTY", 
+    ax.text(340, 990, "TRUDNOŚĆ DWUMECZÓW — ZDOBYTE PUNKTY I BILANS BRAMKOWY", 
             color=FONT_COLOR, fontsize=22, fontweight="bold", ha="left")
     
     # PARAMETRY GEOMETRII (Dopasowane pod jeden pasek bramkowy i nazwę)
@@ -145,7 +145,7 @@ def generate_opponent_ranking():
         # -------------------------------------------------------------
         y_real_center = (y_container_bottom + y_text_top) / 2
         x_logo = start_x_bar - 65
-        add_club_logo(ax, row["opponent"], x_logo, y_real_center, zoom=0.52)
+        add_club_logo(ax, row["opponent"], x_logo, y_real_center, zoom=0.50)
         
         # -------------------------------------------------------------
         # 5. BLOK TEKSTOWY PO PRAWEJ (Idealnie wyśrodkowany w osi wiersza)
@@ -162,7 +162,7 @@ def generate_opponent_ranking():
     ax.set_ylim(0, 1080)
     
     output_path = PLOTS_DIR / "opponent_difficulty_ranking.png"
-    plt.savefig(output_path, dpi=120, pad_inches=0, transparent=False)
+    plt.savefig(output_path, dpi=300, pad_inches=0, transparent=False)
     plt.close()
     print(f"🚀 Sukces! Oczyszczony, wektorowy wykres rywali zapisano w: {output_path}")
 

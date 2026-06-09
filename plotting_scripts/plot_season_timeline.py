@@ -127,7 +127,7 @@ def generate_advanced_timeline():
     ax.set_ylim(0, 1080)
 
     output_path = PLOTS_DIR / "season_timeline.png"
-    plt.savefig(output_path, dpi=120, pad_inches=0, transparent=False)
+    plt.savefig(output_path, dpi=300, pad_inches=0, transparent=False)
     plt.close()
     print(f"Sukces! Nowa, dopieszczona oś czasu zapisana w: {output_path}")
 
