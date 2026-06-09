@@ -33,7 +33,7 @@ def generate_motor_plots():
     # POPRAWKA HSR: Sumujemy Zone 3 i Zone 4 dla pełnego odwzorowania High-Speed Running
     df_motor["Zone3_m"] = df_motor["Distance in Speed Zone 3  (km)"].astype(float) * 1000
     df_motor["Zone4_m"] = df_motor["Distance in Speed Zone 4  (km)"].astype(float) * 1000
-    df_motor["HSR_m_full"] = df_motor["Zone3_m"] + df_motor["Zone4_m"]
+    df_motor["HSR_m_full"] = df_motor["Zone3_m"]
     
     df_motor["Sprint_Dist_m"] = df_motor["Sprint Distance (m)"].astype(float)
 

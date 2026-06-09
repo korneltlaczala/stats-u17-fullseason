@@ -23,7 +23,8 @@ def generate_player_motor_records():
     df = df[df["Split Name"] == "all"].copy() # Tylko pełne mecze
     
     # Obliczamy HSR (Strefa 3 + Strefa 4) w metrach oraz Sprint w metrach
-    df["HSR_m"] = (df["Distance in Speed Zone 3  (km)"].astype(float) + df["Distance in Speed Zone 4  (km)"].astype(float)) * 1000
+    # df["HSR_m"] = (df["Distance in Speed Zone 3  (km)"].astype(float) + df["Distance in Speed Zone 4  (km)"].astype(float)) * 1000
+    df["HSR_m"] = (df["Distance in Speed Zone 3  (km)"].astype(float)) * 1000
     df["Sprint_m"] = df["Sprint Distance (m)"].astype(float)
     df["Distance_km"] = df["Distance (km)"].astype(float)
     
