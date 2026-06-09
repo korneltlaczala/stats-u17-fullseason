@@ -1,0 +1,53 @@
+﻿Category;Statistic;"POLONIA WARSZAWA";"HUTNIK KRAKOW"
+Summary;Goals;0;0
+Summary;Possessions;50%;50%
+Summary;"Shots in total";11;8
+Summary;Fouls;4;3
+Summary;Offsides;2;2
+Summary;"Free kicks";5;6
+Summary;Corners;5;2
+Summary;"Average player game rating";6.91;7.09
+Offensive;"Shots in total";11;8
+Offensive;"Shots on target";2;2
+Offensive;"Shots off target";4;3
+Offensive;"Shots blocked";5;3
+Offensive;"Shots inside PA";5;6
+Offensive;"Shots outside PA";6;2
+Offensive;"Successful take ons";12;3
+Offensive;"All take ons";17;7
+Offensive;"Shot Conversion Rate";0%;0%
+Defensive;"Successful tackles";8;16
+Defensive;"All tackles";15;28
+Defensive;"Aerial duels";11;11
+Defensive;Interceptions;10;11
+Defensive;Clearances;3;8
+Defensive;Recoveries;64;50
+Defensive;Blocks;11;16
+Defensive;Mistakes;0;2
+Defensive;"Won fouls";3;4
+Defensive;"Second Ball Won";64%;36%
+Distribution;"Successful passes";205;199
+Distribution;Passes;271;262
+Distribution;"Pass accuracy";76%;76%
+Distribution;"Key passes";7;7
+Distribution;"Successful passes in final third";30;32
+Distribution;"All passes in final third";52;41
+Distribution;"Successful passes in middle third";84;69
+Distribution;"All passes in middle third";111;95
+Distribution;"Successful passes in defensive third";91;98
+Distribution;"All passes in defensive third";108;126
+Distribution;"Successful long passes";13;20
+Distribution;"All long passes";37;46
+Distribution;"Successful medium range passes";88;71
+Distribution;"All medium range passes";109;81
+Distribution;"Successful short passes";104;108
+Distribution;"All short passes";125;135
+Distribution;"Successful forward passes";73;71
+Distribution;"All forward passes";117;123
+Distribution;"Successful sideways passes";91;80
+Distribution;"All sideways passes";109;88
+Distribution;"Successful backward passes";41;48
+Distribution;"All backward passes";45;51
+Distribution;"Successful crosses";3;2
+Distribution;"All crosses";16;3
+Distribution;"Field Tilt";56%;44%
