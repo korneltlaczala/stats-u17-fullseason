@@ -1,0 +1,846 @@
+﻿player_id;firstname;lastname;league;duration;minute_in;minute_out;app_type;number;isCaptain;isKeeper;isJunior;goals;cards;played
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;11;80;90;Substitute;21;False;False;True;[];[];True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;15;76;90;Substitute;21;False;False;True;[];"[{'type': 'Yellow', 'minute': ""78'""}]";True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;V liga;45;46;90;Substitute;21;False;False;True;[];"[{'type': 'Yellow', 'minute': ""66'""}]";True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;CLJ U-17;74;1;74;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""43'""}]";"[{'type': 'Yellow', 'minute': ""26'""}]";True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;Puchar Polski;45;1;45;Starter;21;False;False;True;[];[];True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;CLJ U-19;65;1;65;Starter;11;False;False;True;[];[];True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;CLJ U-19;70;1;70;Starter;11;False;False;True;[];[];True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;V liga;64;1;64;Starter;18;False;False;True;"[{'type': 'Normal', 'minute': ""5'""}]";[];True
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+510c85a9-290f-4ca8-bd1f-5157b9da9e53;Antoni;Kapusta;I liga;0;91;90;Substitute;21;False;False;True;[];[];False
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;54;1;54;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;88;1;88;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""79'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;74;1;74;Starter;10;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;89;1;89;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""40'""}, {'type': 'Normal', 'minute': ""82'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;90;1;90;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;74;1;74;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""45' +3'""}]";True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;89;1;89;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""31'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""12'""}, {'type': 'Normal', 'minute': ""45' +1'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;90;1;90;Starter;10;False;False;True;"[{'type': 'PenaltyKick', 'minute': ""64'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""77'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;77;1;77;Starter;10;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;77;1;77;Starter;11;False;False;True;[];"[{'type': 'Yellow', 'minute': ""50'""}]";True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;45;1;45;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""41'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;79;1;79;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""66'""}, {'type': 'Normal', 'minute': ""73'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;90;1;90;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-17;0;91;90;Substitute;99;False;False;True;[];[];False
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;68;1;68;Starter;7;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;74;1;74;Starter;7;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;66;1;66;Starter;11;False;False;True;[];"[{'type': 'Yellow', 'minute': ""44'""}]";True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;74;1;74;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;66;1;66;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;70;1;70;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;59;1;59;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;82;1;82;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;I liga;0;91;90;Substitute;18;False;False;True;[];[];False
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;V liga;65;26;90;Substitute;17;False;False;True;"[{'type': 'Normal', 'minute': ""32'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;45;46;90;Substitute;18;False;False;True;"[{'type': 'PenaltyKick', 'minute': ""60'""}]";"[{'type': 'Yellow', 'minute': ""71'""}]";True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;V liga;36;55;90;Substitute;16;False;False;True;"[{'type': 'Normal', 'minute': ""57'""}, {'type': 'Normal', 'minute': ""83'""}]";[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;CLJ U-19;90;1;90;Starter;11;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;V liga;36;55;90;Substitute;18;False;False;True;[];[];True
+fd6f7073-5357-484d-8764-52568b1f6d0f;Kacper;Ziółkowski;V liga;54;1;54;Starter;18;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;16;75;90;Substitute;14;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;16;75;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;30;61;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;59;1;59;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;16;75;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;11;80;90;Substitute;14;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;Liga okręgowa;45;1;45;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;13;78;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;Liga okręgowa;16;75;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;7;84;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;Liga okręgowa;71;1;71;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""43'""}]";[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;13;78;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;21;70;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;11;80;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;21;70;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;68;23;90;Substitute;13;False;False;True;"[{'type': 'Normal', 'minute': ""77'""}]";[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;26;65;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;77;1;77;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;26;65;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;16;75;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;40;51;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;59;1;59;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;90;1;90;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;57;1;57;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;19;72;90;Substitute;17;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;22;69;90;Substitute;17;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;Liga okręgowa;69;1;69;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""56'""}]";True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;26;65;90;Substitute;17;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;Liga okręgowa;31;60;90;Substitute;13;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;CLJ U-17;64;1;64;Starter;7;False;False;True;[];[];True
+4d7d2379-c332-4021-8c4e-c1c0d2790baf;Franciszek;Banaś;Liga okręgowa;25;66;90;Substitute;13;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;54;1;54;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""47'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""66'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +1'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;64;1;64;Starter;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""39'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;Liga okręgowa;81;1;81;Starter;8;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;45;46;90;Substitute;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;65;1;65;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""39'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""63'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""77'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;69;1;69;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;87;1;87;Starter;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""86'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-19;0;91;90;Substitute;15;False;False;True;[];[];False
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +6'""}]";True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;CLJ U-17;90;1;90;Starter;20;False;False;True;[];[];True
+d28db85e-2d3b-4b4f-929a-1538751779a4;Norbert;Białooki;Liga okręgowa;90;1;90;Starter;8;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];"[{'type': 'Yellow', 'minute': ""73'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;50;41;90;Substitute;14;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];"[{'type': 'Yellow', 'minute': ""75'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;84;1;84;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;74;1;74;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""12'""}, {'type': 'PenaltyKick', 'minute': ""37'""}, {'type': 'Normal', 'minute': ""72'""}]";"[{'type': 'Yellow', 'minute': ""33'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""63'""}]";[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;59;1;59;Starter;9;False;False;True;[];"[{'type': 'Yellow', 'minute': ""17'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;Liga okręgowa;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""82'""}]";[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;31;60;90;Substitute;14;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;26;65;90;Substitute;14;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""72'""}]";[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;74;1;74;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""11'""}, {'type': 'PenaltyKick', 'minute': ""45'""}, {'type': 'Normal', 'minute': ""66'""}]";[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""67'""}]";"[{'type': 'Yellow', 'minute': ""60'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;10;False;False;True;[];"[{'type': 'Yellow', 'minute': ""23'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;79;1;79;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""55'""}]";"[{'type': 'Yellow', 'minute': ""69'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;Liga okręgowa;64;1;64;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""9'""}, {'type': 'Normal', 'minute': ""41'""}]";[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;90;1;90;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""63'""}]";[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;89;1;89;Starter;9;False;False;True;[];"[{'type': 'Yellow', 'minute': ""86'""}]";True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-17;54;1;54;Starter;9;False;False;True;[];[];True
+813a990d-4bdb-49d9-9416-aad786290818;Marcel;Dziewa;CLJ U-19;36;55;90;Substitute;14;False;False;True;"[{'type': 'Normal', 'minute': ""88'""}]";[];True
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;False;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;Liga okręgowa;90;1;90;Starter;1;False;True;True;[];[];True
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;Liga okręgowa;90;1;90;Starter;1;False;True;True;[];[];True
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;45;46;90;Substitute;25;False;True;True;[];[];True
+82a3a336-787c-460e-84ee-19e439d24e60;Filip;Kępski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;26;65;90;Substitute;17;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;18;73;90;Substitute;18;False;False;True;"[{'type': 'Normal', 'minute': ""90'""}]";[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;30;61;90;Substitute;17;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;18;73;90;Substitute;17;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;85;1;85;Starter;9;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;26;65;90;Substitute;18;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;54;1;54;Starter;9;False;False;True;[];"[{'type': 'Yellow', 'minute': ""47'""}]";True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;18;73;90;Substitute;17;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;45;1;45;Starter;9;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;45;46;90;Substitute;19;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;21;70;90;Substitute;17;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;11;80;90;Substitute;18;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;64;1;64;Starter;20;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;CLJ U-17;36;55;90;Substitute;18;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;76;1;76;Starter;20;False;False;True;[];[];True
+06a07125-e848-44e8-af8d-7f11965df9c7;Tomasz;Tutka;Liga okręgowa;54;1;54;Starter;20;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;55;1;55;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;31;60;90;Substitute;18;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;90;1;90;Starter;9;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;31;60;90;Substitute;17;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;90;1;90;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""35'""}]";[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;84;1;84;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""81'""}]";[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;45;1;45;Starter;19;False;False;True;"[{'type': 'PenaltyKick', 'minute': ""45'""}]";[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;25;66;90;Substitute;19;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;90;1;90;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;90;1;90;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;79;1;79;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-17;90;1;90;Starter;11;False;False;True;[];"[{'type': 'Yellow', 'minute': ""85'""}]";True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;65;1;65;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;77;1;77;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;74;1;74;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;59;1;59;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;68;1;68;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;84;1;84;Starter;7;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;69;1;69;Starter;7;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;66;1;66;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""52'""}]";[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""55'""}]";[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;88;1;88;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""72'""}]";[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;7;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;86;1;86;Starter;7;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;53;1;53;Starter;7;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;7;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;11;False;False;True;[];[];True
+4d4d3cc7-7212-49b3-8e7b-b749076ea9a6;Paweł;Tyszko;CLJ U-19;90;1;90;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""80'""}]";[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;26;65;90;Substitute;13;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;36;55;90;Substitute;13;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90'""}]";True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;0;91;90;Substitute;13;False;False;True;[];[];False
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;11;80;90;Substitute;13;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;Liga okręgowa;90;1;90;Starter;4;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;Liga okręgowa;65;1;65;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""7'""}]";True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];"[{'type': 'Yellow', 'minute': ""83'""}]";True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;Liga okręgowa;90;1;90;Starter;4;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;3;88;90;Substitute;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;21;70;90;Substitute;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;3;88;90;Substitute;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];"[{'type': 'Yellow', 'minute': ""6'""}]";True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;16;75;90;Substitute;22;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;1;90;90;Substitute;22;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;Liga okręgowa;90;1;90;Starter;4;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;16;75;90;Substitute;22;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;Liga okręgowa;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+1ccd7ac0-e227-4d4a-a115-5e66c6419075;Adrian;Bagiński;Liga okręgowa;90;1;90;Starter;4;False;False;True;[];[];True
+bcebd893-41bb-4ebe-a62a-1929e99037b9;Maksim;Bahdanovich;CLJ U-17;0;91;90;Substitute;25;False;True;False;[];[];False
+bcebd893-41bb-4ebe-a62a-1929e99037b9;Maksim;Bahdanovich;CLJ U-17;0;91;90;Substitute;25;False;True;False;[];[];False
+bcebd893-41bb-4ebe-a62a-1929e99037b9;Maksim;Bahdanovich;Liga okręgowa;0;91;90;Substitute;12;False;True;False;[];[];False
+bcebd893-41bb-4ebe-a62a-1929e99037b9;Maksim;Bahdanovich;Liga okręgowa;0;91;90;Substitute;12;False;True;False;[];[];False
+bcebd893-41bb-4ebe-a62a-1929e99037b9;Maksim;Bahdanovich;Liga okręgowa;0;91;90;Substitute;30;False;True;False;[];[];False
+5f74ecd3-5086-41b6-80c2-89f2f4cad65b;Jakub;Baranowski;CLJ U-17;36;55;90;Substitute;18;False;False;True;[];[];True
+5f74ecd3-5086-41b6-80c2-89f2f4cad65b;Jakub;Baranowski;CLJ U-17;2;89;90;Substitute;15;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;21;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;21;70;90;Substitute;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;21;70;90;Substitute;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;22;True;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;81;1;81;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;Liga okręgowa;76;1;76;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;69;1;69;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;6;False;False;True;"[{'type': 'Normal', 'minute': ""8'""}]";[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;24;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;79;1;79;Starter;24;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;64;1;64;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;72;1;72;Starter;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;9;82;90;Substitute;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;Liga okręgowa;90;1;90;Starter;8;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;30;61;90;Substitute;22;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;26;65;90;Substitute;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;52;1;52;Starter;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;0;91;90;Substitute;6;False;False;True;[];[];False
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;Liga okręgowa;90;1;90;Starter;2;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;23;68;90;Substitute;6;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;Liga okręgowa;90;1;90;Starter;8;False;False;True;[];[];True
+8a9cfdee-8355-4060-a0d0-5eb97b4ed447;Victor;Ciempiel;CLJ U-17;90;1;90;Starter;6;True;False;True;[];[];True
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;0;91;90;Substitute;20;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;Liga okręgowa;0;91;90;Substitute;13;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;Liga okręgowa;9;82;90;Substitute;16;False;False;True;[];[];True
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;0;91;90;Substitute;13;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;16;75;90;Substitute;13;False;False;True;[];[];True
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;0;91;90;Substitute;17;False;False;True;[];[];False
+624b415b-04ba-40c5-8fdb-ed6ce909a462;Oliwier;Dynysiuk;CLJ U-17;21;70;90;Substitute;17;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;36;55;90;Substitute;22;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;Liga okręgowa;31;60;90;Substitute;14;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;16;75;90;Substitute;15;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;40;1;40;Starter;7;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;26;65;90;Substitute;21;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;11;80;90;Substitute;15;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;13;78;90;Substitute;15;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;74;1;74;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""51'""}]";True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;69;1;69;Starter;7;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;75;1;75;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""31'""}]";[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;59;1;59;Starter;7;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;69;1;69;Starter;7;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;69;1;69;Starter;7;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;64;1;64;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""63'""}]";[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;72;1;72;Starter;2;False;False;True;[];"[{'type': 'Yellow', 'minute': ""44'""}]";True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;"[{'type': 'Normal', 'minute': ""25'""}]";[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;79;1;79;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];"[{'type': 'Yellow', 'minute': ""85'""}]";True
+7b4cd2c8-1691-4c26-a713-e580725f015a;Filip;Garczyński;CLJ U-17;90;1;90;Starter;2;False;False;True;[];"[{'type': 'Yellow', 'minute': ""88'""}]";True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];"[{'type': 'Yellow', 'minute': ""90' +4'""}]";True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+8fa43f29-fb8f-443c-b75f-a667631e5fb1;Dawid;Jankowski;CLJ U-17;45;1;45;Starter;1;False;True;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;13;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;4;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;20;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;4;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""89'""}]";True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;4;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;25;66;90;Substitute;4;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;11;80;90;Substitute;23;False;False;True;[];"[{'type': 'Yellow', 'minute': ""87'""}]";True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;26;65;90;Substitute;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""69'""}]";True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;12;79;90;Substitute;15;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;Liga okręgowa;45;1;45;Starter;5;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;4;False;False;True;"[{'type': 'Normal', 'minute': ""75'""}]";"[{'type': 'Yellow', 'minute': ""65'""}]";True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;16;75;90;Substitute;14;False;False;True;[];[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;4;False;False;True;"[{'type': 'Normal', 'minute': ""42'""}, {'type': 'Normal', 'minute': ""50'""}]";[];True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;45;1;45;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""16'""}]";True
+699b06bd-8cd9-4527-a7ea-ba5e6166d967;Milan;Jawor;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;59;1;59;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;54;1;54;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;14;77;90;Substitute;16;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;26;65;90;Substitute;14;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;4;87;90;Substitute;17;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;Liga okręgowa;19;72;90;Substitute;14;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;Liga okręgowa;56;1;56;Starter;8;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;60;1;60;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;67;1;67;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;76;1;76;Starter;6;False;False;True;[];"[{'type': 'Yellow', 'minute': ""63'""}]";True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;59;1;59;Starter;6;False;False;True;[];"[{'type': 'Yellow', 'minute': ""34'""}]";True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;51;1;51;Starter;6;False;False;True;[];"[{'type': 'Yellow', 'minute': ""25'""}]";True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;45;46;90;Substitute;17;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;1;90;90;Substitute;6;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +1'""}]";True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;0;91;90;Substitute;10;False;False;True;[];[];False
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;14;77;90;Substitute;13;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;0;91;90;Substitute;4;False;False;True;[];[];False
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;Liga okręgowa;90;1;90;Starter;6;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;53;38;90;Substitute;14;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;Liga okręgowa;45;46;90;Substitute;16;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;CLJ U-17;45;1;45;Starter;8;False;False;True;[];[];True
+b40043cc-ffc2-4f95-badd-ed960bbeb95f;Paweł;Kazała;Liga okręgowa;45;1;45;Starter;6;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;54;1;54;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""26'""}]";[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;74;1;74;Starter;7;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;88;1;88;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""7'""}, {'type': 'Normal', 'minute': ""53'""}]";[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;45;46;90;Substitute;20;False;False;True;[];"[{'type': 'Yellow', 'minute': ""66'""}]";True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;77;1;77;Starter;7;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;90;1;90;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""10'""}, {'type': 'Normal', 'minute': ""54'""}, {'type': 'Normal', 'minute': ""85'""}]";[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;83;1;83;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""48'""}]";[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-17;84;1;84;Starter;7;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-19;56;1;56;Starter;7;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-19;64;1;64;Starter;7;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-19;45;46;90;Substitute;15;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-19;59;1;59;Starter;7;False;False;True;[];[];True
+93964e24-dc16-4a2f-8dc8-2f8e9143aa03;Filip;Kołodziejski;CLJ U-19;59;1;59;Starter;7;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;74;1;74;Starter;5;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;5;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +1'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;76;1;76;Starter;2;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;66;1;66;Starter;2;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""51'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +4'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;79;1;79;Starter;5;False;False;True;[];"[{'type': 'Yellow', 'minute': ""52'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-19;0;91;90;Substitute;17;False;False;True;[];[];False
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;14;77;90;Substitute;15;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;45;1;45;Starter;5;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;21;70;90;Substitute;21;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;74;1;74;Starter;2;False;False;True;[];"[{'type': 'Yellow', 'minute': ""34'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;79;1;79;Starter;2;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;24;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;78;1;78;Starter;4;False;False;True;"[{'type': 'OwnGoal', 'minute': ""50'""}]";[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;4;False;False;True;[];"[{'type': 'Yellow', 'minute': ""60'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;4;False;False;True;"[{'type': 'Normal', 'minute': ""35'""}]";"[{'type': 'Red', 'minute': ""36'""}]";True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;4;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;45;46;90;Substitute;15;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;90;1;90;Starter;5;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-17;37;1;37;Starter;5;False;False;True;[];[];True
+13475d4d-3adf-48e7-ab94-a35a22758d17;Daniel;Leśniewski;CLJ U-19;36;55;90;Substitute;16;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;35;1;35;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;0;91;90;Substitute;17;False;False;True;[];[];False
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;Liga okręgowa;74;1;74;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;"[{'type': 'Normal', 'minute': ""27'""}]";[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;Liga okręgowa;14;77;90;Substitute;15;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;45;46;90;Substitute;22;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;21;70;90;Substitute;16;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;45;1;45;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;26;65;90;Substitute;14;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;74;1;74;Starter;3;False;False;True;[];"[{'type': 'Yellow', 'minute': ""70'""}]";True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;CLJ U-19;15;76;90;Substitute;17;False;False;True;[];[];True
+f29be20b-4eb5-40d0-b39a-a5ceb5d66a1e;Bartosz;Pawlak;Liga okręgowa;45;46;90;Substitute;15;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;55;36;90;Substitute;20;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;Liga okręgowa;0;91;90;Substitute;15;False;False;True;[];[];False
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;Liga okręgowa;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;14;77;90;Substitute;17;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;Liga okręgowa;45;46;90;Substitute;14;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;45;1;45;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;45;46;90;Substitute;15;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;90;1;90;Starter;23;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;11;80;90;Substitute;14;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;50;1;50;Starter;11;False;False;True;[];[];True
+f8a2944b-a382-40ab-aa3a-bbe038d1cc59;Filip;Pietrzak;CLJ U-17;31;60;90;Substitute;17;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;Liga okręgowa;0;91;90;Substitute;14;False;False;True;[];[];False
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;6;85;90;Substitute;21;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;21;70;90;Substitute;18;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;21;70;90;Substitute;16;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;21;70;90;Substitute;21;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;14;77;90;Substitute;22;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;20;71;90;Substitute;21;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;0;91;90;Substitute;21;False;False;True;[];[];False
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;26;65;90;Substitute;21;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;45;46;90;Substitute;21;False;False;True;[];[];True
+80f2c1f8-8229-4ff0-bf8b-80ca4209ac8d;Kacper;Pustoła;CLJ U-17;45;1;45;Starter;21;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;Liga okręgowa;0;91;90;Substitute;15;False;False;True;[];[];False
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;69;1;69;Starter;2;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;79;1;79;Starter;2;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;26;65;90;Substitute;18;False;False;True;[];"[{'type': 'Yellow', 'minute': ""66'""}]";True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;11;80;90;Substitute;2;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;Liga okręgowa;26;65;90;Substitute;15;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;9;82;90;Substitute;17;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;76;1;76;Starter;2;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;90;1;90;Starter;2;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;45;1;45;Starter;2;False;False;True;[];"[{'type': 'Yellow', 'minute': ""36'""}]";True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;11;80;90;Substitute;18;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;0;91;90;Substitute;23;False;False;True;[];[];False
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;11;80;90;Substitute;16;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;13;78;90;Substitute;17;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;18;73;90;Substitute;24;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;Liga okręgowa;26;65;90;Substitute;14;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;1;90;90;Substitute;15;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;Liga okręgowa;10;81;90;Substitute;16;False;False;True;"[{'type': 'OwnGoal', 'minute': ""90' +3'""}]";[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;18;73;90;Substitute;7;False;False;True;[];[];True
+84f03247-2f60-4edb-a906-62f00f06fbfe;Michał;Styczeń;CLJ U-17;11;80;90;Substitute;14;False;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];"[{'type': 'Yellow', 'minute': ""88'""}]";True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;86;1;86;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;69;1;69;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;31;60;90;Substitute;19;False;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;Liga okręgowa;34;57;90;Substitute;18;False;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""71'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""61'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""63'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;79;1;79;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""73'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;8;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;60;1;60;Starter;19;True;False;True;[];"[{'type': 'Yellow', 'minute': ""30'""}]";True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;Liga okręgowa;90;1;90;Starter;8;False;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;89;1;89;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""36'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""62'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;76;1;76;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;90;1;90;Starter;19;True;False;True;"[{'type': 'Normal', 'minute': ""27'""}]";[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-17;74;1;74;Starter;19;True;False;True;[];[];True
+d84eed31-c102-4340-92f5-26cb55434fc4;Jan;Tyszko;CLJ U-19;31;60;90;Substitute;19;False;False;True;[];[];True
+80c1cfce-ed36-4d78-8784-27e6362f1080;Michał;Zabłocki;CLJ U-17;31;60;90;Substitute;19;False;False;True;[];[];True
+80c1cfce-ed36-4d78-8784-27e6362f1080;Michał;Zabłocki;CLJ U-17;6;85;90;Substitute;19;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;64;1;64;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""53'""}]";[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;84;1;84;Starter;10;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;60;1;60;Starter;10;False;False;True;[];"[{'type': 'Yellow', 'minute': ""58'""}]";True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;64;1;64;Starter;6;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;90;1;90;Starter;10;False;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +4'""}]";True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;90;1;90;Starter;6;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;90;1;90;Starter;6;False;False;True;[];"[{'type': 'Yellow', 'minute': ""83'""}]";True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;59;1;59;Starter;6;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;30;61;90;Substitute;17;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;23;68;90;Substitute;17;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;Liga okręgowa;90;1;90;Starter;6;False;False;True;[];"[{'type': 'Yellow', 'minute': ""37'""}]";True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;31;60;90;Substitute;15;False;False;True;[];[];True
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+dcadc4a5-66f0-48e7-85ec-0d5517e7dcb7;Olivier;Ziembicki;CLJ U-17;45;46;90;Substitute;13;False;False;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];"[{'type': 'Yellow', 'minute': ""66'""}]";True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;CLJ U-15;90;1;90;Starter;1;False;True;True;[];[];True
+0afd047c-5737-471b-a410-9b155d785a6f;Konstanty;Kowalski;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];"[{'type': 'Yellow', 'minute': ""59'""}]";True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];"[{'type': 'Yellow', 'minute': ""90' +4'""}]";True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;36;55;90;Substitute;18;False;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;"[{'type': 'Normal', 'minute': ""31'""}, {'type': 'Normal', 'minute': ""54'""}]";[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;54;1;54;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];"[{'type': 'Yellow', 'minute': ""86'""}]";True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16;90;1;90;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16 RW;45;46;90;Substitute;8;False;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16 RW;90;1;90;Starter;2;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16 RW;59;1;59;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;Ekstraliga U-16 RW;45;1;45;Starter;8;True;False;True;[];[];True
+964f9db5-b135-4d50-be96-341281a4de76;Wojciech;Dąbrowski;CLJ U-17;26;65;90;Substitute;19;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;16;75;90;Substitute;17;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;36;55;90;Substitute;17;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;0;91;90;Substitute;17;False;False;True;[];[];False
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;1;90;90;Substitute;18;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;69;1;69;Starter;10;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;24;67;90;Substitute;15;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;16;75;90;Substitute;16;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;0;91;90;Substitute;17;False;False;True;[];[];False
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;69;1;69;Starter;10;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;59;1;59;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""25'""}]";"[{'type': 'Yellow', 'minute': ""57'""}]";True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;64;1;64;Starter;9;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""56'""}]";[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;39;52;90;Substitute;14;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;45;1;45;Starter;10;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;16;75;90;Substitute;15;False;False;True;[];"[{'type': 'Yellow', 'minute': ""85'""}]";True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;45;1;45;Starter;10;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;30;61;90;Substitute;13;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;89;1;89;Starter;8;False;False;True;"[{'type': 'Normal', 'minute': ""54'""}]";[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;87;1;87;Starter;8;False;False;True;"[{'type': 'Normal', 'minute': ""39'""}]";[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;90;1;90;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-17;67;1;67;Starter;8;False;False;True;[];[];True
+cb2bf586-7e5f-4d62-91ae-eebc106eef58;Bartosz;Jaworski;CLJ U-19;31;60;90;Substitute;15;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;90;1;90;Starter;17;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;39;52;90;Substitute;16;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;45;1;45;Starter;18;False;False;True;"[{'type': 'Normal', 'minute': ""37'""}]";[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;45;1;45;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;90;1;90;Starter;17;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;28;63;90;Substitute;17;False;False;True;[];"[{'type': 'Yellow', 'minute': ""81'""}]";True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;90;1;90;Starter;3;False;False;True;[];"[{'type': 'Yellow', 'minute': ""85'""}]";True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;90;1;90;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;45;1;45;Starter;20;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;90;1;90;Starter;3;False;False;True;"[{'type': 'Normal', 'minute': ""90' +4'""}]";[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16;90;1;90;Starter;5;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;4;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;3;False;False;True;"[{'type': 'Normal', 'minute': ""3'""}]";[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;5;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;CLJ U-17;64;1;64;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;CLJ U-17;0;91;90;Substitute;15;False;False;True;[];[];False
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;31;60;90;Substitute;3;False;False;True;[];"[{'type': 'Yellow', 'minute': ""64'""}]";True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;Ekstraliga U-16 RW;90;1;90;Starter;3;False;False;True;[];[];True
+e04f4ad3-e3a2-46bf-af7b-1d536aafb64d;Piotr;Jemioła;CLJ U-17;90;1;90;Starter;3;False;False;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;90;1;90;Starter;25;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;90;1;90;Starter;25;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;90;1;90;Starter;25;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+2b5c1efd-4b5d-45bd-a074-b027f1250762;Adam;Kostrzewa;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;36;55;90;Substitute;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;59;1;59;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;69;1;69;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""49'""}]";True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;90;1;90;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""23'""}]";[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;52;1;52;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;49;1;49;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;44;1;44;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;45;1;45;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16;90;1;90;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;CLJ U-17;11;80;90;Substitute;13;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16 RW;31;60;90;Substitute;10;False;False;True;[];"[{'type': 'Yellow', 'minute': ""89'""}]";True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;CLJ U-17;16;75;90;Substitute;11;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16 RW;53;1;53;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""24'""}]";[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;CLJ U-17;33;58;90;Substitute;11;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;CLJ U-17;0;91;90;Substitute;14;False;False;True;[];[];False
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16 RW;59;1;59;Starter;7;False;False;True;[];[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16 RW;90;1;90;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""15'""}]";[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16 RW;79;1;79;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""45'""}]";True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;Ekstraliga U-16 RW;45;1;45;Starter;7;False;False;True;"[{'type': 'Normal', 'minute': ""42'""}]";[];True
+86a97add-3e58-4f28-aaa8-9f8b67c99a9c;Julian;Kostrzyński;CLJ U-17;45;46;90;Substitute;14;False;False;True;"[{'type': 'Normal', 'minute': ""60'""}]";[];True
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;CLJ U-17;0;91;90;Substitute;25;False;False;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;CLJ U-17;0;91;90;Substitute;12;False;False;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;CLJ U-17;0;91;90;Substitute;12;False;True;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16;0;91;90;Substitute;25;False;True;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16;0;91;90;Substitute;1;False;True;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16;0;91;90;Substitute;1;False;True;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+1f7b3db8-a680-4f51-9801-a40e0d640ac7;Filip;Linkiewicz;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;36;55;90;Substitute;18;False;False;True;[];"[{'type': 'Yellow', 'minute': ""89'""}]";True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;90;1;90;Starter;10;False;False;True;[];"[{'type': 'Yellow', 'minute': ""55'""}]";True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;90;1;90;Starter;8;False;False;True;"[{'type': 'PenaltyKick', 'minute': ""67'""}, {'type': 'Normal', 'minute': ""70'""}]";"[{'type': 'Yellow', 'minute': ""56'""}]";True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;64;1;64;Starter;7;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;90;1;90;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;45;1;45;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;16;75;90;Substitute;15;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;45;46;90;Substitute;7;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;90;1;90;Starter;7;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;90;1;90;Starter;6;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""68'""}]";[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;45;46;90;Substitute;15;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;69;1;69;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;69;1;69;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;45;46;90;Substitute;18;False;False;True;"[{'type': 'Normal', 'minute': ""60'""}]";"[{'type': 'Yellow', 'minute': ""90'""}]";True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;64;1;64;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;36;55;90;Substitute;14;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16 RW;59;1;59;Starter;8;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;26;65;90;Substitute;14;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16 RW;51;1;51;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;81;1;81;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;Ekstraliga U-16 RW;54;1;54;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;60;1;60;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""45' +1'""}]";[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;64;1;64;Starter;10;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;38;53;90;Substitute;11;False;False;True;[];[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;64;1;64;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""3'""}]";[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""18'""}, {'type': 'Normal', 'minute': ""41'""}]";[];True
+5fb38396-220d-4728-b5b9-2434f5775242;Maciej;Skrok;CLJ U-17;69;1;69;Starter;10;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;2;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;2;False;False;True;"[{'type': 'Normal', 'minute': ""69'""}]";[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;64;1;64;Starter;2;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;2;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;2;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;3;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;2;False;False;True;"[{'type': 'Normal', 'minute': ""71'""}]";[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;68;1;68;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;16;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16;90;1;90;Starter;2;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;90;1;90;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;24;67;90;Substitute;13;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;90;1;90;Starter;4;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;59;1;59;Starter;4;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;90;1;90;Starter;2;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;90;1;90;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;18;1;18;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;36;55;90;Substitute;14;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;90;1;90;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;90;1;90;Starter;5;False;False;True;[];[];True
+66344fe0-cf1f-4569-ac3d-483668e69f51;Adrian;Szafrański;Ekstraliga U-16 RW;45;46;90;Substitute;13;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;54;1;54;Starter;14;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;54;1;54;Starter;10;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;29;62;90;Substitute;17;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;71;1;71;Starter;11;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;64;1;64;Starter;11;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;46;45;90;Substitute;14;False;False;True;"[{'type': 'Normal', 'minute': ""65'""}]";[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""12'""}, {'type': 'Normal', 'minute': ""25'""}]";[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;36;55;90;Substitute;17;False;False;True;"[{'type': 'Normal', 'minute': ""75'""}, {'type': 'Normal', 'minute': ""78'""}]";[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;64;1;64;Starter;11;False;False;True;"[{'type': 'PenaltyKick', 'minute': ""27'""}]";[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;59;1;59;Starter;11;False;False;True;[];"[{'type': 'Yellow', 'minute': ""42'""}]";True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;Ekstraliga U-16;45;1;45;Starter;11;False;False;True;[];[];True
+3282abb3-f431-476e-a576-249e564c24db;Maciej;Szeszel;CLJ U-17;22;1;22;Starter;7;False;False;True;[];[];True
+2ddc315f-82af-40fe-9cc2-7a1945cc9935;Jakub;Szidel;CLJ U-17;2;89;90;Substitute;14;False;False;True;[];[];True
+2ddc315f-82af-40fe-9cc2-7a1945cc9935;Jakub;Szidel;CLJ U-17;21;70;90;Substitute;18;False;False;True;[];[];True
+2ddc315f-82af-40fe-9cc2-7a1945cc9935;Jakub;Szidel;CLJ U-17;6;85;90;Substitute;16;False;False;True;[];[];True
+2ddc315f-82af-40fe-9cc2-7a1945cc9935;Jakub;Szidel;CLJ U-17;1;90;90;Substitute;20;False;False;True;[];[];True
+2ddc315f-82af-40fe-9cc2-7a1945cc9935;Jakub;Szidel;CLJ U-17;0;91;90;Substitute;16;False;False;True;[];[];False
+2ddc315f-82af-40fe-9cc2-7a1945cc9935;Jakub;Szidel;CLJ U-17;6;85;90;Substitute;18;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;90;1;90;Starter;9;False;False;True;[];"[{'type': 'Yellow', 'minute': ""49'""}]";True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;54;1;54;Starter;9;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;54;1;54;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""37'""}, {'type': 'Normal', 'minute': ""50'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;90;1;90;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""50'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;90;1;90;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""5'""}, {'type': 'Normal', 'minute': ""86'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;41;50;90;Substitute;13;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;69;1;69;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""34'""}]";"[{'type': 'Yellow', 'minute': ""69'""}]";True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;54;1;54;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""43'""}, {'type': 'Normal', 'minute': ""49'""}]";"[{'type': 'Yellow', 'minute': ""31'""}]";True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;65;1;65;Starter;9;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;90;1;90;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""88'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;Ekstraliga U-16;74;1;74;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""44'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;0;91;90;Substitute;18;False;False;True;[];[];False
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;54;1;54;Starter;23;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;64;1;64;Starter;10;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;90;1;90;Starter;11;False;False;True;"[{'type': 'Normal', 'minute': ""88'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;72;1;72;Starter;9;False;False;True;"[{'type': 'Normal', 'minute': ""4'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;74;1;74;Starter;9;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;69;1;69;Starter;21;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;70;1;70;Starter;10;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;90;1;90;Starter;10;False;False;True;"[{'type': 'Normal', 'minute': ""35'""}]";[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;68;1;68;Starter;11;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;64;1;64;Starter;11;False;False;True;[];[];True
+9bf8656d-8914-4e62-8807-f5dd0ac54fa7;Maksymilian;Usarek;CLJ U-17;0;91;90;Substitute;11;False;False;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;0;91;90;Substitute;1;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;CLJ U-17;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;90;1;90;Starter;1;False;True;True;[];[];True
+02bd8245-f7e1-4224-b6ff-23b832bde49a;Beniamin;Wróblewski;Ekstraliga U-16 RW;0;91;90;Substitute;25;False;True;True;[];[];False
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;0;91;90;Substitute;17;False;False;True;[];[];False
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;45;46;90;Substitute;17;False;False;True;"[{'type': 'Normal', 'minute': ""76'""}]";[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;69;1;69;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;79;1;79;Starter;7;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;64;1;64;Starter;7;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;31;60;90;Substitute;14;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;62;1;62;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;90;1;90;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;Ekstraliga U-16;45;46;90;Substitute;17;False;False;True;"[{'type': 'PenaltyKick', 'minute': ""81'""}]";"[{'type': 'Yellow', 'minute': ""82'""}]";True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;16;75;90;Substitute;14;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;45;46;90;Substitute;17;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;15;76;90;Substitute;16;False;False;True;[];"[{'type': 'Yellow', 'minute': ""86'""}]";True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;31;60;90;Substitute;15;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;21;70;90;Substitute;17;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;69;1;69;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;64;1;64;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;72;1;72;Starter;11;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;72;1;72;Starter;16;False;False;True;"[{'type': 'Normal', 'minute': ""30'""}]";[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;74;1;74;Starter;7;False;False;True;[];"[{'type': 'Yellow', 'minute': ""57'""}]";True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;90;1;90;Starter;16;False;False;True;"[{'type': 'Normal', 'minute': ""87'""}]";[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;79;1;79;Starter;16;False;False;True;"[{'type': 'Normal', 'minute': ""5'""}, {'type': 'Normal', 'minute': ""32'""}]";[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;74;1;74;Starter;16;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;76;1;76;Starter;16;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;71;1;71;Starter;16;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;79;1;79;Starter;16;False;False;True;"[{'type': 'Normal', 'minute': ""20'""}]";[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;45;1;45;Starter;16;False;False;True;[];[];True
+b94e6f5b-d909-4a90-9d6c-89950c1ef040;Oliwier;Zięba;CLJ U-17;90;1;90;Starter;16;False;False;True;[];[];True

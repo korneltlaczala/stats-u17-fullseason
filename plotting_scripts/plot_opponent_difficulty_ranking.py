@@ -69,7 +69,7 @@ def generate_opponent_ranking():
         max_goals_in_series = 1
 
     # Inicjalizacja płótna 16:9 Full HD
-    fig, ax = plt.subplots(figsize=(16, 9), dpi=120)
+    fig, ax = plt.subplots(figsize=(16, 9), dpi=300)
     fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
     ax.axis("off")
     
@@ -77,8 +77,8 @@ def generate_opponent_ranking():
     ax.imshow(bg_img, extent=[0, 1920, 0, 1080])
     
     # Nagłówek główny grafiki
-    ax.text(340, 990, "TRUDNOŚĆ DWUMECZÓW — ZDOBYTE PUNKTY I BILANS BRAMKOWY", 
-            color=FONT_COLOR, fontsize=22, fontweight="bold", ha="left")
+    ax.text(960, 990, "TRUDNOŚĆ DWUMECZÓW — ZDOBYTE PUNKTY I BILANS BRAMKOWY", 
+            color=FONT_COLOR, fontsize=22, fontweight="bold", ha="center")
     
     # PARAMETRY GEOMETRII (Dopasowane pod jeden pasek bramkowy i nazwę)
     start_y = 850          # Wysokość początkowa pierwszego wiersza

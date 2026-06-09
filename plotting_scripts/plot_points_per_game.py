@@ -115,7 +115,7 @@ def generate_points_plots():
         
     stats = calculate_points_stats()
     
-    fig, ax = plt.subplots(figsize=(16, 9), dpi=120)
+    fig, ax = plt.subplots(figsize=(16, 9), dpi=300)
     fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
     ax.axis("off")
     

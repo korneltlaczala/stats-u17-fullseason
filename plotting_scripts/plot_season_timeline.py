@@ -35,7 +35,7 @@ def generate_advanced_timeline():
     df_2026 = df[df["date_time"].dt.year == 2026].copy()
 
     # 2. Inicjalizacja figury 16:9 Full HD
-    fig, ax = plt.subplots(figsize=(16, 9), dpi=120)
+    fig, ax = plt.subplots(figsize=(16, 9), dpi=300)
     fig.subplots_adjust(left=0, right=1, bottom=0, top=1)
     ax.axis("off")
 
