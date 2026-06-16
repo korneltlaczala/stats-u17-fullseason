@@ -57,7 +57,7 @@ def generate_player_motor_records():
     ax1.axis("off")
     ax1.imshow(bg_img, extent=[0, 1920, 0, 1080])
 
-    ax1.text(960, 1010, "REKORDY SEZONU: MAKSYMALNY DYSTANS SPRINTU W JEDNYM MECZU (M)", 
+    ax1.text(960, 1010, "RUNDA WIOSENNA: MAKSYMALNY DYSTANS SPRINTU W JEDNYM MECZU", 
              color="#FFFFFF", fontsize=22, fontweight="bold", ha="center")
 
     ax_bars1 = fig1.add_axes([0.22, 0.08, 0.72, 0.84])
@@ -92,7 +92,7 @@ def generate_player_motor_records():
     ax2.axis("off")
     ax2.imshow(bg_img, extent=[0, 1920, 0, 1080])
 
-    ax2.text(960, 1010, "REKORDY SEZONU: MAKSYMALNY DYSTANS HIGH-SPEED RUNNING W JEDNYM MECZU (M)", 
+    ax2.text(960, 1010, "RUNDA WIOSENNA: MAKSYMALNY DYSTANS HSR W JEDNYM MECZU", 
              color="#FFFFFF", fontsize=22, fontweight="bold", ha="center")
 
     ax_bars2 = fig2.add_axes([0.22, 0.08, 0.72, 0.84])
@@ -127,7 +127,7 @@ def generate_player_motor_records():
     ax3.axis("off")
     ax3.imshow(bg_img, extent=[0, 1920, 0, 1080])
 
-    ax3.text(960, 1010, "SUMA PRZEBIEGNIĘTEGO DYSTANSU WE WSZYSTKIECH MECZACH SEZONU (KM)", 
+    ax3.text(960, 1010, "SUMA PRZEBIEGNIĘTEGO DYSTANSU W RUNDZIE WIOSENNEJ (KM)", 
              color="#FFFFFF", fontsize=22, fontweight="bold", ha="center")
 
     ax_bars3 = fig3.add_axes([0.22, 0.08, 0.72, 0.84])

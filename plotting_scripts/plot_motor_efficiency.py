@@ -45,7 +45,7 @@ def generate_motor_plots():
     }).reset_index()
 
     # Łączenie z bazą wyników meczowych
-    df_final = pd.merge(df_games[["pzpn_id", "opponent", "true_goals", "true_goals_opponent"]], 
+    df_final = pd.merge(df_games[["pzpn_id", "opponent", "true_goals", "true_goals_opponent", "home_away"]], 
                         motor_grouped, on="pzpn_id", how="inner")
     df_final = df_final.dropna(subset=["true_goals", "true_goals_opponent"]).reset_index(drop=True)
 
@@ -91,7 +91,9 @@ def generate_motor_plots():
 
         dot_color = COLOR_WIN if g > ga else (COLOR_DRAW if g == ga else COLOR_LOSS)
         ax1.scatter(cx, y_floor - 45, s=200, color=dot_color, edgecolors="#FFFFFF", linewidths=1, zorder=3)
-        ax1.text(cx, y_floor - 45, "W" if g > ga else ("R" if g == ga else "P"), color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
+        # W if away, D if home
+        # ax1.text(cx, y_floor - 45, "W" if g > ga else ("R" if g == ga else "P"), color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
+        ax1.text(cx, y_floor - 45, "W" if match["home_away"] == "away" else "D", color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
         add_club_logo(ax1, match["opponent"], cx, y_logo, zoom=0.50)
 
     ax1.set_xlim(0, 1920)
@@ -114,7 +116,7 @@ def generate_motor_plots():
     scale_y2 = 530 / max_hsr
 
     # POPRAWKA: Wyrazista skala boczna dla realnych wartości HSR w metrach
-    for hsr_val in [10000, 15000, 20000, 25000, 30000]:
+    for hsr_val in [6000, 8000, 10000]:
         y_line = y_floor + hsr_val * scale_y2
         ax2.plot([start_x - 40, end_x + 40], [y_line, y_line], color="#FFFFFF", alpha=0.15, linestyle=":", zorder=1)
         ax2.text(start_x - 50, y_line, f"{hsr_val} m", color="#FFFFFF", alpha=0.6, fontsize=9, ha="right", va="center", fontweight="bold")
@@ -129,7 +131,7 @@ def generate_motor_plots():
 
         dot_color = COLOR_WIN if g > ga else (COLOR_DRAW if g == ga else COLOR_LOSS)
         ax2.scatter(cx, y_floor - 45, s=200, color=dot_color, edgecolors="#FFFFFF", linewidths=1, zorder=3)
-        ax2.text(cx, y_floor - 45, "W" if g > ga else ("R" if g == ga else "P"), color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
+        ax2.text(cx, y_floor - 45, "W" if match["home_away"] == "away" else "D", color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
         add_club_logo(ax2, match["opponent"], cx, y_logo, zoom=0.50)
 
     ax2.set_xlim(0, 1920)
@@ -167,7 +169,7 @@ def generate_motor_plots():
 
         dot_color = COLOR_WIN if g > ga else (COLOR_DRAW if g == ga else COLOR_LOSS)
         ax3.scatter(cx, y_floor - 45, s=200, color=dot_color, edgecolors="#FFFFFF", linewidths=1, zorder=3)
-        ax3.text(cx, y_floor - 45, "W" if g > ga else ("R" if g == ga else "P"), color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
+        ax3.text(cx, y_floor - 45, "W" if match["home_away"] == "away" else "D", color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=4)
         add_club_logo(ax3, match["opponent"], cx, y_logo, zoom=0.50)
 
     ax3.set_xlim(0, 1920)

@@ -75,7 +75,9 @@ def generate_shots_efficiency_plot():
         dot_color = COLOR_WIN if g > g_ag else (COLOR_DRAW if g == g_ag else COLOR_LOSS)
         y_dot = y_floor - 50
         ax.scatter(cx, y_dot, s=250, color=dot_color, edgecolors="#FFFFFF", linewidth=1, zorder=5)
-        ax.text(cx, y_dot, "W" if g > g_ag else ("R" if g == g_ag else "P"), color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=6)
+        # ax.text(cx, y_dot, "W" if g > g_ag else ("R" if g == g_ag else "P"), color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=6)
+        # W if away, D if home
+        ax.text(cx, y_dot, "W" if match["home_away"] == "away" else "D", color="#000000", fontsize=7, fontweight="bold", ha="center", va="center", zorder=6)
 
         add_club_logo(ax, match["opponent"], cx, y_logo, zoom=0.45)
 
